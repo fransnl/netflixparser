@@ -1,0 +1,6112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xmeml>
+<xmeml version="4">
+  <sequence id="sequence" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.5" TL.SQHideShyTracks="0" TL.SQHeaderWidth="292" Monitor.ProgramZoomOut="0" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="0.19999999999999998" MZ.EditLine="0" MZ.Sequence.PreviewFrameSizeHeight="1080" MZ.Sequence.PreviewFrameSizeWidth="1920" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1061109567" MZ.Sequence.PreviewRenderingPresetCodec="1634755439" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets/SequencePreview/795454d9-d3c2-429d-9474-923ab13b7018/QuickTime.epr" MZ.Sequence.PreviewUseMaxRenderQuality="false" MZ.Sequence.PreviewUseMaxBitDepth="false" MZ.Sequence.EditingModeGUID="795454d9-d3c2-429d-9474-923ab13b7018" MZ.Sequence.VideoTimeDisplayFormat="101" MZ.WorkOutPoint="4612930560000" MZ.WorkInPoint="0" explodedTracks="true">
+    <uuid>8e440c0e5e3f1b877a276aef2c06e215</uuid>
+    <duration>1000</duration>
+    <rate>
+      <timebase>25</timebase>
+      <ntsc>FALSE</ntsc>
+    </rate>
+    <name>Subtitles - S01E04 - Ricardio the Heart Guy; Business Time.ass (31.10.2022 15:29)</name>
+    <media>
+      <video>
+        <format>
+          <samplecharacteristics>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <codec>
+              <name>Apple ProRes 422</name>
+              <appspecificdata>
+                <appname>Final Cut Pro</appname>
+                <appmanufacturer>Apple Inc.</appmanufacturer>
+                <appversion>7.0</appversion>
+                <data>
+                  <qtcodec>
+                    <codecname>Apple ProRes 422</codecname>
+                    <codectypename>Apple ProRes 422</codectypename>
+                    <codecname>Apple ProRes 422</codecname>
+                    <codectypecode>apcn</codectypecode>
+                    <codecvendorcode>appl</codecvendorcode>
+                    <spatialquality>1024</spatialquality>
+                    <temporalquality>0</temporalquality>
+                    <keyframerate>0</keyframerate>
+                    <datarate>0</datarate>
+                  </qtcodec>
+                </data>
+              </appspecificdata>
+            </codec>
+            <width>1920</width>
+            <height>1080</height>
+            <anamorphic>FALSE</anamorphic>
+            <pixelaspectratio>square</pixelaspectratio>
+            <fielddominance>none</fielddominance>
+            <colordepth>24</colordepth>
+          </samplecharacteristics>
+        </format>
+        <track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <generatoritem id="clipitem-1">
+            <name>Color Matte</name>
+            <enabled>TRUE</enabled>
+            <duration>1000</duration>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>0</start>
+            <end>1000</end>
+            <in>0</in>
+            <out>1000</out>
+            <alphatype>none</alphatype>
+            <effect>
+              <name>Color</name>
+              <effectid>Color</effectid>
+              <effectcategory>Matte</effectcategory>
+              <effecttype>generator</effecttype>
+              <mediatype>video</mediatype>
+              <parameter authoringApp="PremierePro">
+                <parameterid>fillcolor</parameterid>
+                <name>Color</name>
+                <value>
+                  <alpha>0</alpha>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                </value>
+              </parameter>
+            </effect>
+            <filter>
+              <effect>
+                <name>Opacity</name>
+                <effectid>opacity</effectid>
+                <effectcategory>motion</effectcategory>
+                <effecttype>motion</effecttype>
+                <mediatype>video</mediatype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>opacity</parameterid>
+                  <name>opacity</name>
+                  <valuemin>0</valuemin>
+                  <valuemax>100</valuemax>
+                  <value>0</value>
+                </parameter>
+              </effect>
+            </filter>
+            <marker>
+              <comment>{\b1}ПОРА ПРИКЛЮЧЕНИЙ
+с Финном и Джейком{\b0}</comment>
+              <name/>
+              <in>0</in>
+              <out>125</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Перевод и Тайминг:
+Tanis [tanis138@yandex.ru]</comment>
+              <name/>
+              <in>125</in>
+              <out>250</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\pos(332,136)}Приключений</comment>
+              <name/>
+              <in>342</in>
+              <out>-1</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\pos(345,197)}ПОРА</comment>
+              <name/>
+              <in>342</in>
+              <out>335</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Пора приключений!</comment>
+              <name/>
+              <in>335</in>
+              <out>363</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Бери с собой друзей.</comment>
+              <name/>
+              <in>363</in>
+              <out>400</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>И путешествуй за Тридевять Земель.</comment>
+              <name/>
+              <in>401</in>
+              <out>467</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>С собакой Джейком</comment>
+              <name/>
+              <in>467</in>
+              <out>500</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>и Финном человеком</comment>
+              <name/>
+              <in>500</in>
+              <out>525</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>нам весело всегда!</comment>
+              <name/>
+              <in>525</in>
+              <out>575</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Приключений Пора...</comment>
+              <name/>
+              <in>575</in>
+              <out>589</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\fscx67.5\fscy95\pos(341,102)}Приключений</comment>
+              <name/>
+              <in>589</in>
+              <out>-1</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\pos(362,163)\fscx117.5\fscy113.75}ПОРА</comment>
+              <name/>
+              <in>589</in>
+              <out>620</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment/>
+              <name/>
+              <in>648</in>
+              <out>-1</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment/>
+              <name/>
+              <in>648</in>
+              <out>-1</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment/>
+              <name/>
+              <in>648</in>
+              <out>699</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Эй, старый пердун!</comment>
+              <name/>
+              <in>878</in>
+              <out>915</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Верни Принцессу Жвачку!</comment>
+              <name/>
+              <in>915</in>
+              <out>965</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Не лезьте в чужие дела!</comment>
+              <name/>
+              <in>965</in>
+              <out>1023</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Мои глаза!</comment>
+              <name/>
+              <in>1120</in>
+              <out>1156</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Эй, Ледяной Король! А слабо поцеловать принцессу?</comment>
+              <name/>
+              <in>1277</in>
+              <out>1350</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Нет, не слабо! Я поцелую её!</comment>
+              <name/>
+              <in>1350</in>
+              <out>1404</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Не шевелись...</comment>
+              <name/>
+              <in>1404</in>
+              <out>1429</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ты только что поцеловал Джейка в задницу!</comment>
+              <name/>
+              <in>1460</in>
+              <out>1518</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Что?!</comment>
+              <name/>
+              <in>1518</in>
+              <out>1542</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ты выиграл сражение, но победа будет моей!
+Как и ты, Принцесса!</comment>
+              <name/>
+              <in>1683</in>
+              <out>1812</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Моей!</comment>
+              <name/>
+              <in>1812</in>
+              <out>1862</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Как он жалок. И снова спасибо вам ребятки, что спасли меня!</comment>
+              <name/>
+              <in>1862</in>
+              <out>1976</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Не за что, Принцесса!</comment>
+              <name/>
+              <in>1976</in>
+              <out>2017</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Приглашаю вас на вечеринку! Встретимся в Конфетном Королевстве. Сегодня!</comment>
+              <name/>
+              <in>2077</in>
+              <out>2183</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Вечеринка!</comment>
+              <name/>
+              <in>2183</in>
+              <out>2212</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\fscx107.5\fscy157.5\pos(326,190)}ВЕЧЕРИНКИ</comment>
+              <name/>
+              <in>2213</in>
+              <out>-1</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\fscx165\fscy137.5\pos(340,264)}ПОРА</comment>
+              <name/>
+              <in>2213</in>
+              <out>2262</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Этот бумажный журавлик для Принцессы Жвачки?</comment>
+              <name/>
+              <in>2287</in>
+              <out>2340</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я несу ей подарок! За то, что она пригласила нас на вечеринку.</comment>
+              <name/>
+              <in>2340</in>
+              <out>2420</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Спорим, ты хотел бы быть моей задницей!</comment>
+              <name/>
+              <in>2422</in>
+              <out>2491</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Что?!</comment>
+              <name/>
+              <in>2491</in>
+              <out>2507</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Спорим, {\b1}ТЫ{\b0} хотел бы быть моей задницей! Тогда принцесса бы... Ну...</comment>
+              <name/>
+              <in>2507</in>
+              <out>2614</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Нет, стоп.</comment>
+              <name/>
+              <in>2614</in>
+              <out>2637</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Спорим, {\b1}ТЫ{\b0} хотел бы оказаться на месте Ледяного Короля и чтобы {\b1}Принцесса{\b0} была на месте моей задницы!</comment>
+              <name/>
+              <in>2637</in>
+              <out>2763</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\b1}ЧТО?!{\b0}</comment>
+              <name/>
+              <in>2763</in>
+              <out>2781</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Хм... О!</comment>
+              <name/>
+              <in>2781</in>
+              <out>2825</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Спорим, ты хотел бы, чтобы Жвачка поцеловала тебя!</comment>
+              <name/>
+              <in>2825</in>
+              <out>2891</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Как Ледяной Король поцеловал мою задницу!</comment>
+              <name/>
+              <in>2891</in>
+              <out>2944</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Глупости какие...</comment>
+              <name/>
+              <in>2944</in>
+              <out>2982</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Что такого смешного?</comment>
+              <name/>
+              <in>3143</in>
+              <out>3179</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Эй, народ! Пришли Финн с Джейком!</comment>
+              <name/>
+              <in>3179</in>
+              <out>3270</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Кто готов повеселиться?</comment>
+              <name/>
+              <in>3270</in>
+              <out>3320</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Чего все смеются?</comment>
+              <name/>
+              <in>3398</in>
+              <out>3429</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Цыц!</comment>
+              <name/>
+              <in>3429</in>
+              <out>3445</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Все, отойдите! Этот тип массажа называется {\b1}Массаж Лучшего Друга{\b0}!</comment>
+              <name/>
+              <in>3445</in>
+              <out>3585</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О, Боже мой!</comment>
+              <name/>
+              <in>3585</in>
+              <out>3604</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Потому что он может быть сделан {\b1}только{\b0} для друзей!</comment>
+              <name/>
+              <in>3604</in>
+              <out>3675</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Массаж полного взаимного согласия!</comment>
+              <name/>
+              <in>3675</in>
+              <out>3741</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О, Боже мой!</comment>
+              <name/>
+              <in>3741</in>
+              <out>3769</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Расслабься, Принцесса Бугристого Пространства!</comment>
+              <name/>
+              <in>3769</in>
+              <out>3858</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я чувствую себя так легко!</comment>
+              <name/>
+              <in>3888</in>
+              <out>3929</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Что это за перец?</comment>
+              <name/>
+              <in>3929</in>
+              <out>3957</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Приветствую вас, гости вечеринки! Я так рада что все вы смогли прийти сюда!</comment>
+              <name/>
+              <in>4036</in>
+              <out>4126</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Принцесса Жвачка!</comment>
+              <name/>
+              <in>4126</in>
+              <out>4155</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Принцесса! Я лишь хотел поблагода...</comment>
+              <name/>
+              <in>4204</in>
+              <out>4267</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О Боже мой! ПЖ! Ты должна заценить этого нового парня! Он такой милашка! Тебе понравится!</comment>
+              <name/>
+              <in>4267</in>
+              <out>4394</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Это... Боже мой! Я ведь не знаю твоего имени!</comment>
+              <name/>
+              <in>4425</in>
+              <out>4505</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Рикардио... Рикардио к Вашим услугам!</comment>
+              <name/>
+              <in>4505</in>
+              <out>4590</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я ожидал весь вечер, чтобы повстречать Вас, Принцесса!</comment>
+              <name/>
+              <in>4603</in>
+              <out>4706</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я слышал, вам нравятся древние технологии?</comment>
+              <name/>
+              <in>4762</in>
+              <out>4829</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Вы когда-нибудь пробовали использовать балбофлонный лазер для упорядочивания гибернодов срифта в буботронно-плазмодиевой структуре?</comment>
+              <name/>
+              <in>4829</in>
+              <out>4982</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О! Нет, не пробовала!</comment>
+              <name/>
+              <in>4982</in>
+              <out>5028</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Продолжим наш разговор на танцплощадке?</comment>
+              <name/>
+              <in>5059</in>
+              <out>5124</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>С превеликим удовольствием, Принцесса!</comment>
+              <name/>
+              <in>5124</in>
+              <out>5198</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Почему принцесса не пригласила {\b1}меня{\b0} на танец?</comment>
+              <name/>
+              <in>5198</in>
+              <out>5254</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Хочешь танцевать? Так иди и танцуй!</comment>
+              <name/>
+              <in>5254</in>
+              <out>5315</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Но сейчас она танцует с ним!</comment>
+              <name/>
+              <in>5315</in>
+              <out>5372</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я чувствую себя... странно!</comment>
+              <name/>
+              <in>5390</in>
+              <out>5449</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Похоже ты столкнулся с новыми эмоциями, которые пока не понимаешь.</comment>
+              <name/>
+              <in>5449</in>
+              <out>5571</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ревность!</comment>
+              <name/>
+              <in>5571</in>
+              <out>5603</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Слушай, чувак! Просто иди туда!</comment>
+              <name/>
+              <in>5629</in>
+              <out>5696</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Плазмодиевые слои абсолютно не восприимчивы к бабилонам, не так ли?</comment>
+              <name/>
+              <in>5696</in>
+              <out>5807</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ого! Это же значит, что бабилоны будут флуктуировать с пиронной наносферой!</comment>
+              <name/>
+              <in>5807</in>
+              <out>5932</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Совершенно верно!</comment>
+              <name/>
+              <in>5932</in>
+              <out>5960</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Блин, они говорят о науке! Мне с этим не справиться!</comment>
+              <name/>
+              <in>5985</in>
+              <out>6065</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Так станцуй научный танец!</comment>
+              <name/>
+              <in>6065</in>
+              <out>6109</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Помнишь такой? Выглядит примерно так.</comment>
+              <name/>
+              <in>6109</in>
+              <out>6174</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Думаешь, сработает?</comment>
+              <name/>
+              <in>6207</in>
+              <out>6233</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да! Наверно. Сделай это, ты же профессионал!</comment>
+              <name/>
+              <in>6233</in>
+              <out>6318</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Научный танец! Научный танец! Научный танец!</comment>
+              <name/>
+              <in>6318</in>
+              <out>6377</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>...приближённые поля...</comment>
+              <name/>
+              <in>6377</in>
+              <out>6406</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Эй, эй! Принцесса! Хочешь побыть со мной?</comment>
+              <name/>
+              <in>6420</in>
+              <out>6487</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Простите меня принцесса, я должен отойти...</comment>
+              <name/>
+              <in>6487</in>
+              <out>6549</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О? Э... Хорошо!</comment>
+              <name/>
+              <in>6549</in>
+              <out>6593</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Финн! Какого хрена? Мы как раз обсуждали {\b1}Зеноидов{\b0}!</comment>
+              <name/>
+              <in>6593</in>
+              <out>6680</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О! Мне тоже нравятся {\b1}Зеноиды{\b0}! Они... самые лучшие!</comment>
+              <name/>
+              <in>6680</in>
+              <out>6775</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\b1}Зеноиды{\b0} убивают сотни тысяч {\b1}Плантоидов{\b0} каждый год!</comment>
+              <name/>
+              <in>6775</in>
+              <out>6856</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О, нет! Только не {\b1}Плантоиды{\b0}!</comment>
+              <name/>
+              <in>6856</in>
+              <out>6900</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\b1}Плантоиды{\b0} производят мальвовый токсин!</comment>
+              <name/>
+              <in>6900</in>
+              <out>6954</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Мальвовый токсин убивает {\b1}Зеноидов{\b0}!</comment>
+              <name/>
+              <in>6984</in>
+              <out>7046</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Так... {\b1}Зеноиды{\b0} - хорошие или нет?</comment>
+              <name/>
+              <in>7046</in>
+              <out>7121</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ты ревнуешь меня к Рикардио!</comment>
+              <name/>
+              <in>7121</in>
+              <out>7168</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Вот и нет! Мне просто не нравится, как он с тобой разговаривает! От этого я чувствую себя странно!</comment>
+              <name/>
+              <in>7168</in>
+              <out>7269</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Это и есть ревность, дорогуша!</comment>
+              <name/>
+              <in>7269</in>
+              <out>7307</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я не ревную! Я веду себя {\b1}странно{\b0}!</comment>
+              <name/>
+              <in>7307</in>
+              <out>7369</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ого, блин! Плохи дела!</comment>
+              <name/>
+              <in>7369</in>
+              <out>7437</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Эй, Финн! Пошли поможешь мне замочить ореховых монстров у бара!</comment>
+              <name/>
+              <in>7437</in>
+              <out>7529</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Медлить нельзя!</comment>
+              <name/>
+              <in>7529</in>
+              <out>7554</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ого, чел! Что там произошло?</comment>
+              <name/>
+              <in>7554</in>
+              <out>7603</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я не знаю!</comment>
+              <name/>
+              <in>7603</in>
+              <out>7648</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я просто беспокоился о ней, а она извратила все мои слова...</comment>
+              <name/>
+              <in>7648</in>
+              <out>7720</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да! Девушки они все такие!</comment>
+              <name/>
+              <in>7720</in>
+              <out>7780</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>А Жвачка впридачу ещё и очень умная!</comment>
+              <name/>
+              <in>7780</in>
+              <out>7823</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да! знаю! Но у меня какое-то странное ощущение по поводу этого Рикардио!</comment>
+              <name/>
+              <in>7823</in>
+              <out>7914</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я думаю он... {\b1}ЗЛОДЕЙ{\b0}!</comment>
+              <name/>
+              <in>7914</in>
+              <out>7973</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Почему? Потому что у него такая гнусная морщинистая рожа?</comment>
+              <name/>
+              <in>7973</in>
+              <out>8061</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Нет! Но я нутром чую - но задумал что-то нехорошее!</comment>
+              <name/>
+              <in>8061</in>
+              <out>8161</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Может, ты ощущаешь романтическое соперничество?</comment>
+              <name/>
+              <in>8161</in>
+              <out>8235</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я докажу, что он злодей!</comment>
+              <name/>
+              <in>8235</in>
+              <out>8269</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Как?</comment>
+              <name/>
+              <in>8269</in>
+              <out>8290</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Устроим слежку!</comment>
+              <name/>
+              <in>8290</in>
+              <out>8340</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Вот и он! Они разговаривают.</comment>
+              <name/>
+              <in>8387</in>
+              <out>8441</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Дай посмотреть! Я умею читать по губам!</comment>
+              <name/>
+              <in>8441</in>
+              <out>8491</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment/>
+              <name/>
+              <in>8491</in>
+              <out>8586</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment/>
+              <name/>
+              <in>8586</in>
+              <out>8648</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Не валяй дурака, Джейк! Это вопрос жизни и смерти!</comment>
+              <name/>
+              <in>8648</in>
+              <out>8719</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Разве? Не пойми меня неправильно. Мне нравится сидеть в засаде и следить за этим парнем.</comment>
+              <name/>
+              <in>8719</in>
+              <out>8837</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Но что, если он не злодей? Что если он просто уродливо выглядит?</comment>
+              <name/>
+              <in>8837</in>
+              <out>8913</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Некоторые люди уродливы, и в то же время очень хорошие!</comment>
+              <name/>
+              <in>8913</in>
+              <out>8966</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я доверяю своему нутру!</comment>
+              <name/>
+              <in>8966</in>
+              <out>9016</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Пошли за ним!</comment>
+              <name/>
+              <in>9042</in>
+              <out>9082</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я вижу его! Он держит верёвку и роется в мусоре!</comment>
+              <name/>
+              <in>9213</in>
+              <out>9302</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Он разбил бутылку! И изображает, будто пыряет кого-то!</comment>
+              <name/>
+              <in>9303</in>
+              <out>9400</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Итак, он что-то выкидывает? Но что?</comment>
+              <name/>
+              <in>9400</in>
+              <out>9471</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ну и наивное же у тебя нутро, Джейк!</comment>
+              <name/>
+              <in>9471</in>
+              <out>9537</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Боже мой! Он с Ледяным Королём! Что-то обсуждают!</comment>
+              <name/>
+              <in>9537</in>
+              <out>9651</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Рикардио выкидывает его в мусорку! И убегает!</comment>
+              <name/>
+              <in>9759</in>
+              <out>9846</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Так я был прав! Он {\b1}хороший{\b0} парень! Ему просто не повезло с внешностью!</comment>
+              <name/>
+              <in>9846</in>
+              <out>9966</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\b1}Мы с нутром вместе по жизни!
+Раскрываем преступления, помогаем отчизне!{\b0}</comment>
+              <name/>
+              <in>9966</in>
+              <out>10093</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Вот и нет! Это доказывает, что он {\b1}СУПЕР{\b0} злодей</comment>
+              <name/>
+              <in>10093</in>
+              <out>10172</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Более могущественный чем другие злодеи, как Ледяной Король.</comment>
+              <name/>
+              <in>10172</in>
+              <out>10251</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\b1\i1}Моё нутро кричит: он добрый! Твоё нутро кричит: он злой!
+Давай мы наши кишки сложим, и выясним кто он такой!{\b0\i0}</comment>
+              <name/>
+              <in>10251</in>
+              <out>10462</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Решено! Мы столкнёмся с Рикардио лицом к лицу и докажем, что он злой!</comment>
+              <name/>
+              <in>10462</in>
+              <out>10586</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Или добрый!</comment>
+              <name/>
+              <in>10586</in>
+              <out>10616</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Так, что ты делаешь, Рикардио? Ты злой?</comment>
+              <name/>
+              <in>10723</in>
+              <out>10792</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Или добрый, но со злым лицом?</comment>
+              <name/>
+              <in>10792</in>
+              <out>10838</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Не ваше дело!</comment>
+              <name/>
+              <in>10838</in>
+              <out>10882</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Спасение Принцессы Жвачки - {\b1}моё{\b0} дело!</comment>
+              <name/>
+              <in>10882</in>
+              <out>10954</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да, мы просто хотим узнать: ты добрый или нет.</comment>
+              <name/>
+              <in>10954</in>
+              <out>11010</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да?</comment>
+              <name/>
+              <in>11010</in>
+              <out>11043</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да!</comment>
+              <name/>
+              <in>11043</in>
+              <out>11059</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\b1}ДА?!{\b0}</comment>
+              <name/>
+              <in>11059</in>
+              <out>11097</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ага. Да!</comment>
+              <name/>
+              <in>11097</in>
+              <out>11138</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Держись от Принцессы Жвачки подальше со всей этой фигнёй!</comment>
+              <name/>
+              <in>11138</in>
+              <out>11200</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Теперь, когда мой план практически завершён, тебе уже меня не остановить!</comment>
+              <name/>
+              <in>11200</in>
+              <out>11345</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я остановлю тебя, если захочу!</comment>
+              <name/>
+              <in>11345</in>
+              <out>11392</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да?</comment>
+              <name/>
+              <in>11392</in>
+              <out>11418</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\b1}Да!{\b0}</comment>
+              <name/>
+              <in>11418</in>
+              <out>11431</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\b1}ДА?!{\b0}</comment>
+              <name/>
+              <in>11431</in>
+              <out>11474</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\b1}ДА!{\b0}</comment>
+              <name/>
+              <in>11474</in>
+              <out>11524</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Что здесь происходит?</comment>
+              <name/>
+              <in>11552</in>
+              <out>11585</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Принцесса?</comment>
+              <name/>
+              <in>11585</in>
+              <out>11604</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Рикардио?</comment>
+              <name/>
+              <in>11604</in>
+              <out>11627</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да? Со мной все в порядке... Принцесса.</comment>
+              <name/>
+              <in>11627</in>
+              <out>11702</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Финн! За что ты его так?</comment>
+              <name/>
+              <in>11702</in>
+              <out>11752</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Он собирался напасть на тебя с этой верёвкой и бутылками!</comment>
+              <name/>
+              <in>11752</in>
+              <out>11807</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Это для балбофлонного лазера?</comment>
+              <name/>
+              <in>11807</in>
+              <out>11865</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Это не целиком его вина, Принцесса. Возможно, я выглядел слегка устрашающе...</comment>
+              <name/>
+              <in>11865</in>
+              <out>11975</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Финн! Нельзя бить ботанов! Ты же знаешь, они такие хрупкие!</comment>
+              <name/>
+              <in>11975</in>
+              <out>12105</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Хватит уже ревновать!</comment>
+              <name/>
+              <in>12105</in>
+              <out>12155</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Что?!</comment>
+              <name/>
+              <in>12155</in>
+              <out>12172</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Пошли, Рикардио! Я тебя залатаю и дам конфетку.</comment>
+              <name/>
+              <in>12172</in>
+              <out>12265</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ну вот. Теперь она меня ненавидит. Как же я был неправ насчёт Рикардио...</comment>
+              <name/>
+              <in>12273</in>
+              <out>12357</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Нет, Финн! Ты был прав!</comment>
+              <name/>
+              <in>12357</in>
+              <out>12407</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Он {\b1}злой{\b0}!</comment>
+              <name/>
+              <in>12420</in>
+              <out>12491</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ледяной Король! Расскажи мне всё, что ты знаешь! А иначе я...</comment>
+              <name/>
+              <in>12491</in>
+              <out>12588</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Стой, Финн! Какой-то он помятый...</comment>
+              <name/>
+              <in>12588</in>
+              <out>12645</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Мне всё равно! Меня интересует только Рикардио!</comment>
+              <name/>
+              <in>12645</in>
+              <out>12705</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Но моё теперешнее состояние напрямую связано с {\b1}ним{\b0}!</comment>
+              <name/>
+              <in>12705</in>
+              <out>12834</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я пытался произнести заклинание, которое бы дало мне полный контроль над сердцем Принцессы Жвачки!</comment>
+              <name/>
+              <in>12863</in>
+              <out>13010</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Но я всё испортил!</comment>
+              <name/>
+              <in>13010</in>
+              <out>13060</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>И потерял контроль над своим...</comment>
+              <name/>
+              <in>13126</in>
+              <out>13188</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Он планирует вырвать сердце у Принцессы Жвачки!</comment>
+              <name/>
+              <in>13269</in>
+              <out>13347</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>И сделать его своей женой!</comment>
+              <name/>
+              <in>13347</in>
+              <out>13441</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Без своего сердца я слабею...</comment>
+              <name/>
+              <in>13471</in>
+              <out>13538</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Но в поисках Рикардио я всё же добрался до Конфетного Королевства.</comment>
+              <name/>
+              <in>13558</in>
+              <out>13666</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>В аллее я умолял его вернуться ко мне и оставить Принцессу в покое!</comment>
+              <name/>
+              <in>13666</in>
+              <out>13779</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Но он кинул меня в мусорку и оставил умирать!</comment>
+              <name/>
+              <in>13803</in>
+              <out>13874</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Остановите Рикардио!</comment>
+              <name/>
+              <in>13874</in>
+              <out>13935</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Пошли, Джейк! Нужно спасти Принцессу!</comment>
+              <name/>
+              <in>13944</in>
+              <out>14008</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Принцесса Жвачка!</comment>
+              <name/>
+              <in>14008</in>
+              <out>14025</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Принцесса!</comment>
+              <name/>
+              <in>14025</in>
+              <out>14047</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Финн! Джейк!</comment>
+              <name/>
+              <in>14051</in>
+              <out>14112</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ты с самого начала был прав, Финн!</comment>
+              <name/>
+              <in>14112</in>
+              <out>14182</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>А теперь я вырежу Принцессе Жвачке сердце и буду с ним встречаться!</comment>
+              <name/>
+              <in>14182</in>
+              <out>14316</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Теперь дерись со мной!</comment>
+              <name/>
+              <in>14316</in>
+              <out>14357</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ещё один шаг - и я извлеку у неё сердце!</comment>
+              <name/>
+              <in>14542</in>
+              <out>14616</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Финн! Я такая дура, что сомневалась в тебе!</comment>
+              <name/>
+              <in>14616</in>
+              <out>14691</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Он был таким очаровательным! Но его знания о планетоидах, вообще то, очень слабы.</comment>
+              <name/>
+              <in>14691</in>
+              <out>14807</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Заткнись, Принцесса!</comment>
+              <name/>
+              <in>14807</in>
+              <out>14874</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я вырву это сердце и оно станет моей женой!</comment>
+              <name/>
+              <in>14915</in>
+              <out>15018</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Почему бы тебе не жениться на ком-нибудь своего размера! Например, на моей ноге!</comment>
+              <name/>
+              <in>15018</in>
+              <out>15110</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>И моём кулаке!</comment>
+              <name/>
+              <in>15131</in>
+              <out>15161</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Стой! Прекрати!</comment>
+              <name/>
+              <in>15183</in>
+              <out>15220</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ты же бьёшь моё {\b1}сердце{\b0}!</comment>
+              <name/>
+              <in>15233</in>
+              <out>15290</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ледяной Король!</comment>
+              <name/>
+              <in>15290</in>
+              <out>15318</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Мы позволим ему вернуть сердце? Он же... злодей!</comment>
+              <name/>
+              <in>15389</in>
+              <out>15510</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Чувак! Что-то мне не хочется смотреть на помирающего старика на ковре Принцессы Жвачки!</comment>
+              <name/>
+              <in>15510</in>
+              <out>15609</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О, да! Иди к папочке! Нравится? А?</comment>
+              <name/>
+              <in>15609</in>
+              <out>15775</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Увидимся позже, ребята...</comment>
+              <name/>
+              <in>15775</in>
+              <out>15891</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я чувствую себя прекрасно!!!</comment>
+              <name/>
+              <in>15899</in>
+              <out>15994</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>И теперь, когда я спас Принцессу, она выйдет за меня замуж и будет жить в моём подземелье!</comment>
+              <name/>
+              <in>16001</in>
+              <out>16137</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Нет не будет!</comment>
+              <name/>
+              <in>16137</in>
+              <out>16157</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да, я не буду!</comment>
+              <name/>
+              <in>16157</in>
+              <out>16187</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Нет, будешь!</comment>
+              <name/>
+              <in>16187</in>
+              <out>16247</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Что же, может не сегодня. И не завтра. Но в другой день! И в другой...</comment>
+              <name/>
+              <in>16269</in>
+              <out>16399</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ещё раз спасибо, что спас меня... Ещё раз.</comment>
+              <name/>
+              <in>16504</in>
+              <out>16572</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Пара пустяков!</comment>
+              <name/>
+              <in>16572</in>
+              <out>16594</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Теперь, когда Рикардио нет, тебе больше не нужно меня ни к кому ревновать!</comment>
+              <name/>
+              <in>16594</in>
+              <out>16715</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>А я никогда и не ревновал!</comment>
+              <name/>
+              <in>16715</in>
+              <out>16763</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Поцелуй меня, Финн...</comment>
+              <name/>
+              <in>16763</in>
+              <out>16847</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment/>
+              <name/>
+              <in>16847</in>
+              <out>16897</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>У меня хорошо получается, Джейк?</comment>
+              <name/>
+              <in>16897</in>
+              <out>16947</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment/>
+              <name/>
+              <in>17041</in>
+              <out>-1</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment/>
+              <name/>
+              <in>17041</in>
+              <out>17092</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я нашёл очередной велик и парочку компьютеров! А у тебя что?</comment>
+              <name/>
+              <in>17440</in>
+              <out>17518</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>А мне всё попадается лишь детская обувь!</comment>
+              <name/>
+              <in>17518</in>
+              <out>17574</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Какого хрена?! Они все левые!</comment>
+              <name/>
+              <in>17606</in>
+              <out>17670</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Извини, что мне не попадается ничего хорошего...</comment>
+              <name/>
+              <in>17670</in>
+              <out>17728</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Не расстраивайся, приятель! Думаю, мы нашли уже достаточно хлама, чтобы закончить наш {\b1}Док Препятствий{\b0}!</comment>
+              <name/>
+              <in>17728</in>
+              <out>17856</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Док, который в то же время Полоса Препятствий!</comment>
+              <name/>
+              <in>17856</in>
+              <out>17917</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Блин! Строить этот Док Препятствий тяжело, чувак!</comment>
+              <name/>
+              <in>17917</in>
+              <out>18011</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Тяжёлая работа - отстой!</comment>
+              <name/>
+              <in>18011</in>
+              <out>18050</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Не ленись, Джейк!</comment>
+              <name/>
+              <in>18050</in>
+              <out>18111</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>К нам приближается айсберг!</comment>
+              <name/>
+              <in>18131</in>
+              <out>18176</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ого! Этот огромный!</comment>
+              <name/>
+              <in>18176</in>
+              <out>18220</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Чур мой!</comment>
+              <name/>
+              <in>18220</in>
+              <out>18249</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Надеюсь, это не детская обувь...</comment>
+              <name/>
+              <in>18249</in>
+              <out>18338</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Это чел!</comment>
+              <name/>
+              <in>18338</in>
+              <out>18374</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Стрёмно! Тут куча народу!</comment>
+              <name/>
+              <in>18374</in>
+              <out>18432</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Знаешь, кого они мне напоминают? Хорошо одетые огурцы!</comment>
+              <name/>
+              <in>18432</in>
+              <out>18496</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Отойди, Джейк! Я их растоплю!</comment>
+              <name/>
+              <in>18496</in>
+              <out>18577</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Полная мощность!</comment>
+              <name/>
+              <in>18577</in>
+              <out>18609</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Эй, чувак! Не поджарь их!</comment>
+              <name/>
+              <in>18646</in>
+              <out>18694</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Растапливать надо плавненько....</comment>
+              <name/>
+              <in>18694</in>
+              <out>18767</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment/>
+              <name/>
+              <in>18821</in>
+              <out>18880</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment/>
+              <name/>
+              <in>18880</in>
+              <out>18909</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Эй! Вы меня слышите? Алё!</comment>
+              <name/>
+              <in>18909</in>
+              <out>18979</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Не думаю, что они выжили.</comment>
+              <name/>
+              <in>19006</in>
+              <out>19042</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Эй! У этого какая-то сумка!</comment>
+              <name/>
+              <in>19042</in>
+              <out>19092</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я... Помню...</comment>
+              <name/>
+              <in>19136</in>
+              <out>19213</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\b1}Бизнес....{\b0}</comment>
+              <name/>
+              <in>19213</in>
+              <out>19291</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Мы - {\b1}бизнесмены{\b0}!</comment>
+              <name/>
+              <in>19369</in>
+              <out>19449</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О! Ну, а я - Финн! А это - Джейк!</comment>
+              <name/>
+              <in>19449</in>
+              <out>19539</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ну и каким бизнесом вы занимаетесь?</comment>
+              <name/>
+              <in>19539</in>
+              <out>19586</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Были заморожены так долго... Я...</comment>
+              <name/>
+              <in>19586</in>
+              <out>19657</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Не могу вспомнить. Не могу вспомнить!</comment>
+              <name/>
+              <in>19726</in>
+              <out>19831</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О! Вам не нужна помощь в делах? Мы бы с радостью поработали на вас!</comment>
+              <name/>
+              <in>19831</in>
+              <out>19937</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Нее! Зоне приключений помощь не нужна!</comment>
+              <name/>
+              <in>19937</in>
+              <out>20002</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да! Помогите нам починить этот Док!</comment>
+              <name/>
+              <in>20002</in>
+              <out>20047</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Док?</comment>
+              <name/>
+              <in>20047</in>
+              <out>20070</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да! Вон тот!</comment>
+              <name/>
+              <in>20070</in>
+              <out>20114</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да! Этот док... Может быть... Более эффективным!</comment>
+              <name/>
+              <in>20114</in>
+              <out>20238</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Нет, стойте!</comment>
+              <name/>
+              <in>20238</in>
+              <out>20286</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Джейк! Этот док - {\b1}НАША{\b0} кухня!</comment>
+              <name/>
+              <in>20286</in>
+              <out>20351</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>И "готовить" на ней должны{\b1} МЫ{\b0}!</comment>
+              <name/>
+              <in>20351</in>
+              <out>20401</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Но они же умоляют об этом, Финн! Только посмотри на них!</comment>
+              <name/>
+              <in>20401</in>
+              <out>20495</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да! Строить Док! Да, Док!</comment>
+              <name/>
+              <in>20521</in>
+              <out>20570</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Финн! Эти бедняжки погибнут без работы! Мы же не можем их так оставить!</comment>
+              <name/>
+              <in>20581</in>
+              <out>20717</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Э...</comment>
+              <name/>
+              <in>20717</in>
+              <out>20743</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Вперёд, ребятки! Почините его!</comment>
+              <name/>
+              <in>20743</in>
+              <out>20778</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ура! Да! Хорошо, починим этот Док! Да, отлично!</comment>
+              <name/>
+              <in>20778</in>
+              <out>20886</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Что же, похоже они действительно рады делать это!</comment>
+              <name/>
+              <in>20886</in>
+              <out>20978</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Конечно, чувак! Они ж сказали, что с удовольствием будут работать на тебя!</comment>
+              <name/>
+              <in>20978</in>
+              <out>21057</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Мы закончили!</comment>
+              <name/>
+              <in>21116</in>
+              <out>21157</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ого!</comment>
+              <name/>
+              <in>21157</in>
+              <out>21183</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я ж те говорил!</comment>
+              <name/>
+              <in>21183</in>
+              <out>21219</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Пошли заценим!</comment>
+              <name/>
+              <in>21219</in>
+              <out>21269</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да, круто!</comment>
+              <name/>
+              <in>21721</in>
+              <out>21782</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Видишь! Если мы их наймем их по полной, они вернутся в бизнес!</comment>
+              <name/>
+              <in>21826</in>
+              <out>21929</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>А мы сможем заняться весёлым вещами! Выиграют все!</comment>
+              <name/>
+              <in>21929</in>
+              <out>22025</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Может, ты и прав!</comment>
+              <name/>
+              <in>22025</in>
+              <out>22059</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Слышали, парни! Может, я прав!</comment>
+              <name/>
+              <in>22059</in>
+              <out>22128</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Серьёзно? Работа? С... искателями приключений?</comment>
+              <name/>
+              <in>22128</in>
+              <out>22251</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да, чуваки!</comment>
+              <name/>
+              <in>22251</in>
+              <out>22285</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment/>
+              <name/>
+              <in>22355</in>
+              <out>22428</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Как-то странно, ничего не делать...</comment>
+              <name/>
+              <in>22630</in>
+              <out>22663</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Расслабься, чел! Считай, это твой выходной!</comment>
+              <name/>
+              <in>22663</in>
+              <out>22731</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Кто-нибудь, помогите!</comment>
+              <name/>
+              <in>22740</in>
+              <out>22786</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Беда, чувак! Подымай свой зад, а я возьму свой... Что?</comment>
+              <name/>
+              <in>22786</in>
+              <out>22854</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Набор для приключений. Полностью готов!</comment>
+              <name/>
+              <in>22854</in>
+              <out>22929</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О! Спасибо, чел!</comment>
+              <name/>
+              <in>22929</in>
+              <out>22957</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Должен признать, Джейк! Мой меч блестит, как яйца, и острый, как бритва!</comment>
+              <name/>
+              <in>23002</in>
+              <out>23098</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ага!</comment>
+              <name/>
+              <in>23098</in>
+              <out>23117</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Даже ботинки ведут себя по-другому!</comment>
+              <name/>
+              <in>23117</in>
+              <out>23162</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Они не только чистые!</comment>
+              <name/>
+              <in>23162</in>
+              <out>23204</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Но и я ощущаю себя сильнее, быстрее и адекватнее!</comment>
+              <name/>
+              <in>23204</in>
+              <out>23276</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Круто!</comment>
+              <name/>
+              <in>23276</in>
+              <out>23298</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Помогите!!!</comment>
+              <name/>
+              <in>23367</in>
+              <out>23401</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Не плачь, Принцесса Хот Дог!
+Мы с Джейком победим эти Боевые Кубы!</comment>
+              <name/>
+              <in>23401</in>
+              <out>23509</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Всё хорошо! Они молодцы!</comment>
+              <name/>
+              <in>23509</in>
+              <out>23559</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я вас остановлю!</comment>
+              <name/>
+              <in>23647</in>
+              <out>23699</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Блин! Чёт я устал!</comment>
+              <name/>
+              <in>23699</in>
+              <out>23756</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ох! Я тоже!</comment>
+              <name/>
+              <in>23756</in>
+              <out>23806</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Эти кубы... Ох! Упругие, блин!</comment>
+              <name/>
+              <in>23806</in>
+              <out>23891</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Эй! Бизнес чуваки!</comment>
+              <name/>
+              <in>23891</in>
+              <out>23941</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Сдерживайте эти кубы, пока мы переведём дыхание!</comment>
+              <name/>
+              <in>23941</in>
+              <out>24003</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Джейк! Они не умеют драться!</comment>
+              <name/>
+              <in>24003</in>
+              <out>24066</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Вода! Дольки апельсина! Помогают при обезвоживании!</comment>
+              <name/>
+              <in>24184</in>
+              <out>24273</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Классные парни, да?</comment>
+              <name/>
+              <in>24356</in>
+              <out>24399</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Должен признать, они помогают!</comment>
+              <name/>
+              <in>24399</in>
+              <out>24476</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О! Кажысь я понял, как победить Боевые Кубы!</comment>
+              <name/>
+              <in>24476</in>
+              <out>24567</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>А это всё потому, что у тебя было время отдохнуть телом и освежить мозг!</comment>
+              <name/>
+              <in>24567</in>
+              <out>24649</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Хорошо! Теперь наша очередь, парни!</comment>
+              <name/>
+              <in>24649</in>
+              <out>24711</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да! Отличная работа!</comment>
+              <name/>
+              <in>24711</in>
+              <out>24746</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Собери все кубы вместе!</comment>
+              <name/>
+              <in>24795</in>
+              <out>24842</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Есть!</comment>
+              <name/>
+              <in>24861</in>
+              <out>24881</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Сработало!</comment>
+              <name/>
+              <in>24933</in>
+              <out>24966</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Проснись, принцесса Хот Дог!</comment>
+              <name/>
+              <in>24984</in>
+              <out>25040</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ты спасена!</comment>
+              <name/>
+              <in>25040</in>
+              <out>25059</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О! Спасибо вам, Финн и Джейк!</comment>
+              <name/>
+              <in>25059</in>
+              <out>25146</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>А особенно тебе, Финн!</comment>
+              <name/>
+              <in>25165</in>
+              <out>25225</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Она пахнет как старый хот дог!</comment>
+              <name/>
+              <in>25263</in>
+              <out>25316</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Этот я беру на себя!</comment>
+              <name/>
+              <in>25447</in>
+              <out>25495</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Круто! Я повышаю тебя, приятель!</comment>
+              <name/>
+              <in>25495</in>
+              <out>25588</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Мы тоже возьмём на себя!</comment>
+              <name/>
+              <in>25624</in>
+              <out>25719</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Блин! Опять проиграл!</comment>
+              <name/>
+              <in>25749</in>
+              <out>25798</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Моя очередь!</comment>
+              <name/>
+              <in>25798</in>
+              <out>25848</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Чё это?</comment>
+              <name/>
+              <in>25879</in>
+              <out>25907</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Обзорный Монитор Героя.</comment>
+              <name/>
+              <in>25907</in>
+              <out>25952</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Использует спутник для поиска проблем по всему миру!</comment>
+              <name/>
+              <in>25965</in>
+              <out>26042</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>А! Ух ты. Что-нить происходит?</comment>
+              <name/>
+              <in>26042</in>
+              <out>26099</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да так, мелочи. Вы копите силы на что-нибудь крупное!</comment>
+              <name/>
+              <in>26099</in>
+              <out>26184</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Адски круто, чувак!</comment>
+              <name/>
+              <in>26184</in>
+              <out>26223</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Чё они делают?</comment>
+              <name/>
+              <in>26223</in>
+              <out>26258</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Занимаются бизнесом.</comment>
+              <name/>
+              <in>26258</in>
+              <out>26308</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Джейк! Кинь в меня!</comment>
+              <name/>
+              <in>26407</in>
+              <out>26452</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Миссия завершена.</comment>
+              <name/>
+              <in>26620</in>
+              <out>26656</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да!</comment>
+              <name/>
+              <in>26656</in>
+              <out>26683</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я прошёл Мастеров Приключений!</comment>
+              <name/>
+              <in>26683</in>
+              <out>26716</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ура!</comment>
+              <name/>
+              <in>26716</in>
+              <out>26742</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Прошёл Мастеров Приключений!</comment>
+              <name/>
+              <in>26742</in>
+              <out>26791</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да!</comment>
+              <name/>
+              <in>26791</in>
+              <out>26810</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Вот уж не знал, что быть толстым и ленивым так полезно!</comment>
+              <name/>
+              <in>26895</in>
+              <out>26967</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да! Твоё пузо такое большое и пластичное!</comment>
+              <name/>
+              <in>26967</in>
+              <out>27042</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Эй!</comment>
+              <name/>
+              <in>27042</in>
+              <out>27068</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Погодь ка!</comment>
+              <name/>
+              <in>27068</in>
+              <out>27096</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ха-ха-ха! Щекотно!</comment>
+              <name/>
+              <in>27096</in>
+              <out>27138</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\b1\i1}Я Ледяной Король! И я живу без жены потому что я дурак!{\b0\i0}</comment>
+              <name/>
+              <in>27138</in>
+              <out>27271</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Теперь я попробую!</comment>
+              <name/>
+              <in>27306</in>
+              <out>27343</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\b1\i1}Я Принцесса Жвачка! И я такая дура, т.к. люблю науку!{\b0\i0}</comment>
+              <name/>
+              <in>27389</in>
+              <out>27491</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>{\b1\i1}А ещё у меня противный голос, который так нравится Финну!{\b0\i0}</comment>
+              <name/>
+              <in>27491</in>
+              <out>27601</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ха-ха! Точно... Эй! Что ты сказал?</comment>
+              <name/>
+              <in>27601</in>
+              <out>27681</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О боже мой! Оставь меня в покое!</comment>
+              <name/>
+              <in>27681</in>
+              <out>27727</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ты такой урод! Кто-нибудь, помогите мне!</comment>
+              <name/>
+              <in>27727</in>
+              <out>27848</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Блин, чёт я не в настроении спасать Принцессу Бугристого Пространства!</comment>
+              <name/>
+              <in>27848</in>
+              <out>27952</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Эй! Бизнес чуваки! Что думаете?</comment>
+              <name/>
+              <in>27952</in>
+              <out>28032</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ну... Всего 1 монстр. Мы справимся!</comment>
+              <name/>
+              <in>28032</in>
+              <out>28103</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Лады!</comment>
+              <name/>
+              <in>28103</in>
+              <out>28122</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>А мы тогда побережём свои силы для {\b1}больших{\b0} приключений!</comment>
+              <name/>
+              <in>28127</in>
+              <out>28214</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ах! Классно, чувак!</comment>
+              <name/>
+              <in>28214</in>
+              <out>28264</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Представь, какие классные будут приключения, когда настанет наша очередь!</comment>
+              <name/>
+              <in>28264</in>
+              <out>28365</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я слишком устал, чтобы представлять! Но уверен - ты прав!</comment>
+              <name/>
+              <in>28365</in>
+              <out>28461</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>За Великих Искателей Приключений!</comment>
+              <name/>
+              <in>28461</in>
+              <out>28532</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Блин!</comment>
+              <name/>
+              <in>28775</in>
+              <out>28797</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Помогите!</comment>
+              <name/>
+              <in>28797</in>
+              <out>28842</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Джейк! Ты это слышал?</comment>
+              <name/>
+              <in>28842</in>
+              <out>28882</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ага, пускай бизнесмены разберутся!</comment>
+              <name/>
+              <in>28882</in>
+              <out>28939</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Помогите!</comment>
+              <name/>
+              <in>28939</in>
+              <out>28966</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ну вот, опять!</comment>
+              <name/>
+              <in>28988</in>
+              <out>29011</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Бизнесмены!..</comment>
+              <name/>
+              <in>29011</in>
+              <out>29056</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Помоги-и-и-те!</comment>
+              <name/>
+              <in>29056</in>
+              <out>29091</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Чувак! Мы облажались! Бизнесмены опять съехали с катушек!</comment>
+              <name/>
+              <in>29273</in>
+              <out>29373</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Финн! Пусть бизнесмены разберутся!</comment>
+              <name/>
+              <in>29373</in>
+              <out>29441</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Бизнесмены{\b1} и есть{\b0} проблема! Ленивая ты дырка!</comment>
+              <name/>
+              <in>29441</in>
+              <out>29512</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Чё?</comment>
+              <name/>
+              <in>29512</in>
+              <out>29523</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Народ! Народ, остановитесь!</comment>
+              <name/>
+              <in>29523</in>
+              <out>29604</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Прекратите, народ!</comment>
+              <name/>
+              <in>29653</in>
+              <out>29682</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Прекратить что, босс?</comment>
+              <name/>
+              <in>29682</in>
+              <out>29721</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Вы обижаете пушистых друзей!</comment>
+              <name/>
+              <in>29721</in>
+              <out>29771</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Э... Мы герои!.. Как и ты босс!</comment>
+              <name/>
+              <in>29771</in>
+              <out>29856</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Мы их защищаем!</comment>
+              <name/>
+              <in>29856</in>
+              <out>29906</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Мы собираем их вместе в контейнер, чтобы им ничего не смогло навредить!</comment>
+              <name/>
+              <in>29906</in>
+              <out>30019</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Это самый эффективный способ спасать людей!</comment>
+              <name/>
+              <in>30019</in>
+              <out>30089</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Но вы расстраиваете их!</comment>
+              <name/>
+              <in>30089</in>
+              <out>30139</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Не важно! Эти существа под нашей охраной!</comment>
+              <name/>
+              <in>30139</in>
+              <out>30225</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Их счастье не является приоритетом!</comment>
+              <name/>
+              <in>30225</in>
+              <out>30287</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я ваш {\b1}босс{\b0}! И вы все {\b1}УВОЛЕНЫ{\b0}!!!</comment>
+              <name/>
+              <in>30287</in>
+              <out>30399</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Уволены?!</comment>
+              <name/>
+              <in>30407</in>
+              <out>30439</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Нет!</comment>
+              <name/>
+              <in>30667</in>
+              <out>30697</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ну всё, народ! Теперь я с вами разберусь!</comment>
+              <name/>
+              <in>30697</in>
+              <out>30778</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>В стиле Финна!</comment>
+              <name/>
+              <in>30778</in>
+              <out>30818</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я настучу в ваш контейнер, чуваки!</comment>
+              <name/>
+              <in>30928</in>
+              <out>30979</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Финн?! Чёрт!</comment>
+              <name/>
+              <in>30979</in>
+              <out>31051</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я иду, приятель!</comment>
+              <name/>
+              <in>31089</in>
+              <out>31135</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я такой толстый, чувак! Я не знаю, что делать!</comment>
+              <name/>
+              <in>31210</in>
+              <out>31289</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Точно!</comment>
+              <name/>
+              <in>31289</in>
+              <out>31327</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Джейк! Деморализуй их!</comment>
+              <name/>
+              <in>31327</in>
+              <out>31389</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Что? Зачем?</comment>
+              <name/>
+              <in>31389</in>
+              <out>31426</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Делай, чувак! У меня есть классный план!</comment>
+              <name/>
+              <in>31426</in>
+              <out>31485</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ну ладно, хорошо.</comment>
+              <name/>
+              <in>31485</in>
+              <out>31527</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Эй! Вы, парни, неудачники в бизнесе!</comment>
+              <name/>
+              <in>31527</in>
+              <out>31601</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Они засасывают меня, чувак!</comment>
+              <name/>
+              <in>31662</in>
+              <out>31702</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>А теперь ешь побольше мороженого, чтобы стать толще!</comment>
+              <name/>
+              <in>31702</in>
+              <out>31772</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>А также используй свою способность растягиваться, чтобы стать больше!</comment>
+              <name/>
+              <in>31772</in>
+              <out>31848</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Хорошо!</comment>
+              <name/>
+              <in>31848</in>
+              <out>31864</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Отстой!</comment>
+              <name/>
+              <in>32028</in>
+              <out>32058</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да, чувак! Увеличивайся в размерах! Ты сломаешь их робота!</comment>
+              <name/>
+              <in>32058</in>
+              <out>32146</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>О, нет!</comment>
+              <name/>
+              <in>32212</in>
+              <out>32239</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я убью тебя, {\b1}НЕ БОСС{\b0}!</comment>
+              <name/>
+              <in>32314</in>
+              <out>32388</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Стой, чувак! Стой! Я хочу пере нанять вас!</comment>
+              <name/>
+              <in>32388</in>
+              <out>32486</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Пере нанять? Серьёзно?</comment>
+              <name/>
+              <in>32486</in>
+              <out>32552</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да, чуваки!</comment>
+              <name/>
+              <in>32552</in>
+              <out>32577</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Да! Гип гип ура! Кексы...</comment>
+              <name/>
+              <in>32697</in>
+              <out>32790</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Постой! А для чего ты их нанял?</comment>
+              <name/>
+              <in>32844</in>
+              <out>32906</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я нанял их, чтобы они засунули себя в айсберг и уплыли отсюда!</comment>
+              <name/>
+              <in>32906</in>
+              <out>32986</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Ах! Я буду скучать по ним...</comment>
+              <name/>
+              <in>32986</in>
+              <out>33036</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>И я буду скучать по этому пузу!</comment>
+              <name/>
+              <in>33036</in>
+              <out>33105</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Я тоже буду скучать по своему пузу!</comment>
+              <name/>
+              <in>33120</in>
+              <out>33183</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment/>
+              <name/>
+              <in>33298</in>
+              <out>33333</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Пошли со мной.</comment>
+              <name/>
+              <in>33397</in>
+              <out>33489</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Вместе с бабочками и пчёлами.</comment>
+              <name/>
+              <in>33489</in>
+              <out>33592</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Прогуляемся по лесу.</comment>
+              <name/>
+              <in>33592</in>
+              <out>33692</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>И займёмся тем, чем захотим.</comment>
+              <name/>
+              <in>33692</in>
+              <out>33792</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>Пошли со мной.</comment>
+              <name/>
+              <in>33792</in>
+              <out>33891</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+            <marker>
+              <comment>На холм под деревом.</comment>
+              <name/>
+              <in>33891</in>
+              <out>33961</out>
+              <pproColor>4281740498</pproColor>
+            </marker>
+          </generatoritem>
+        </track>
+      </video>
+      <audio>
+        <numOutputChannels>2</numOutputChannels>
+        <format>
+          <samplecharacteristics>
+            <depth>16</depth>
+            <samplerate>48000</samplerate>
+          </samplecharacteristics>
+        </format>
+        <outputs>
+          <groups>
+            <index>1</index>
+            <numchannels>1</numchannels>
+            <downmix>0</downmix>
+            <channel>
+              <index>1</index>
+            </channel>
+          </groups>
+          <groups>
+            <index>2</index>
+            <numchannels>1</numchannels>
+            <downmix>0</downmix>
+            <channel>
+              <index>2</index>
+            </channel>
+          </groups>
+        </outputs>
+        <track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <outputchannelindex>1</outputchannelindex>
+        </track>
+        <track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <outputchannelindex>2</outputchannelindex>
+        </track>
+        <track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <outputchannelindex>1</outputchannelindex>
+        </track>
+        <track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <outputchannelindex>2</outputchannelindex>
+        </track>
+        <track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <outputchannelindex>1</outputchannelindex>
+        </track>
+        <track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <outputchannelindex>2</outputchannelindex>
+        </track>
+        <track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <outputchannelindex>1</outputchannelindex>
+        </track>
+        <track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <outputchannelindex>2</outputchannelindex>
+        </track>
+      </audio>
+    </media>
+    <timecode>
+      <rate>
+        <timebase>25</timebase>
+        <ntsc>FALSE</ntsc>
+      </rate>
+      <string>0</string>
+      <frame>0</frame>
+      <displayformat>NDF</displayformat>
+    </timecode>
+    <labels>
+      <label2>Iris</label2>
+    </labels>
+    <logginginfo>
+      <description/>
+      <scene/>
+      <shottake/>
+      <lognote/>
+      <good/>
+      <originalvideofilename/>
+      <originalaudiofilename/>
+    </logginginfo>
+    <marker>
+      <comment>{\b1}ПОРА ПРИКЛЮЧЕНИЙ
+с Финном и Джейком{\b0}</comment>
+      <name/>
+      <in>0</in>
+      <out>125</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Перевод и Тайминг:
+Tanis [tanis138@yandex.ru]</comment>
+      <name/>
+      <in>125</in>
+      <out>250</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\pos(332,136)}Приключений</comment>
+      <name/>
+      <in>342</in>
+      <out>-1</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\pos(345,197)}ПОРА</comment>
+      <name/>
+      <in>342</in>
+      <out>335</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Пора приключений!</comment>
+      <name/>
+      <in>335</in>
+      <out>363</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Бери с собой друзей.</comment>
+      <name/>
+      <in>363</in>
+      <out>400</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>И путешествуй за Тридевять Земель.</comment>
+      <name/>
+      <in>401</in>
+      <out>467</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>С собакой Джейком</comment>
+      <name/>
+      <in>467</in>
+      <out>500</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>и Финном человеком</comment>
+      <name/>
+      <in>500</in>
+      <out>525</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>нам весело всегда!</comment>
+      <name/>
+      <in>525</in>
+      <out>575</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Приключений Пора...</comment>
+      <name/>
+      <in>575</in>
+      <out>589</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\fscx67.5\fscy95\pos(341,102)}Приключений</comment>
+      <name/>
+      <in>589</in>
+      <out>-1</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\pos(362,163)\fscx117.5\fscy113.75}ПОРА</comment>
+      <name/>
+      <in>589</in>
+      <out>620</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment/>
+      <name/>
+      <in>648</in>
+      <out>-1</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment/>
+      <name/>
+      <in>648</in>
+      <out>-1</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment/>
+      <name/>
+      <in>648</in>
+      <out>699</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Эй, старый пердун!</comment>
+      <name/>
+      <in>878</in>
+      <out>915</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Верни Принцессу Жвачку!</comment>
+      <name/>
+      <in>915</in>
+      <out>965</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Не лезьте в чужие дела!</comment>
+      <name/>
+      <in>965</in>
+      <out>1023</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Мои глаза!</comment>
+      <name/>
+      <in>1120</in>
+      <out>1156</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Эй, Ледяной Король! А слабо поцеловать принцессу?</comment>
+      <name/>
+      <in>1277</in>
+      <out>1350</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Нет, не слабо! Я поцелую её!</comment>
+      <name/>
+      <in>1350</in>
+      <out>1404</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Не шевелись...</comment>
+      <name/>
+      <in>1404</in>
+      <out>1429</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ты только что поцеловал Джейка в задницу!</comment>
+      <name/>
+      <in>1460</in>
+      <out>1518</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Что?!</comment>
+      <name/>
+      <in>1518</in>
+      <out>1542</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ты выиграл сражение, но победа будет моей!
+Как и ты, Принцесса!</comment>
+      <name/>
+      <in>1683</in>
+      <out>1812</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Моей!</comment>
+      <name/>
+      <in>1812</in>
+      <out>1862</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Как он жалок. И снова спасибо вам ребятки, что спасли меня!</comment>
+      <name/>
+      <in>1862</in>
+      <out>1976</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Не за что, Принцесса!</comment>
+      <name/>
+      <in>1976</in>
+      <out>2017</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Приглашаю вас на вечеринку! Встретимся в Конфетном Королевстве. Сегодня!</comment>
+      <name/>
+      <in>2077</in>
+      <out>2183</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Вечеринка!</comment>
+      <name/>
+      <in>2183</in>
+      <out>2212</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\fscx107.5\fscy157.5\pos(326,190)}ВЕЧЕРИНКИ</comment>
+      <name/>
+      <in>2213</in>
+      <out>-1</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\fscx165\fscy137.5\pos(340,264)}ПОРА</comment>
+      <name/>
+      <in>2213</in>
+      <out>2262</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Этот бумажный журавлик для Принцессы Жвачки?</comment>
+      <name/>
+      <in>2287</in>
+      <out>2340</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я несу ей подарок! За то, что она пригласила нас на вечеринку.</comment>
+      <name/>
+      <in>2340</in>
+      <out>2420</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Спорим, ты хотел бы быть моей задницей!</comment>
+      <name/>
+      <in>2422</in>
+      <out>2491</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Что?!</comment>
+      <name/>
+      <in>2491</in>
+      <out>2507</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Спорим, {\b1}ТЫ{\b0} хотел бы быть моей задницей! Тогда принцесса бы... Ну...</comment>
+      <name/>
+      <in>2507</in>
+      <out>2614</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Нет, стоп.</comment>
+      <name/>
+      <in>2614</in>
+      <out>2637</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Спорим, {\b1}ТЫ{\b0} хотел бы оказаться на месте Ледяного Короля и чтобы {\b1}Принцесса{\b0} была на месте моей задницы!</comment>
+      <name/>
+      <in>2637</in>
+      <out>2763</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\b1}ЧТО?!{\b0}</comment>
+      <name/>
+      <in>2763</in>
+      <out>2781</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Хм... О!</comment>
+      <name/>
+      <in>2781</in>
+      <out>2825</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Спорим, ты хотел бы, чтобы Жвачка поцеловала тебя!</comment>
+      <name/>
+      <in>2825</in>
+      <out>2891</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Как Ледяной Король поцеловал мою задницу!</comment>
+      <name/>
+      <in>2891</in>
+      <out>2944</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Глупости какие...</comment>
+      <name/>
+      <in>2944</in>
+      <out>2982</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Что такого смешного?</comment>
+      <name/>
+      <in>3143</in>
+      <out>3179</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Эй, народ! Пришли Финн с Джейком!</comment>
+      <name/>
+      <in>3179</in>
+      <out>3270</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Кто готов повеселиться?</comment>
+      <name/>
+      <in>3270</in>
+      <out>3320</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Чего все смеются?</comment>
+      <name/>
+      <in>3398</in>
+      <out>3429</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Цыц!</comment>
+      <name/>
+      <in>3429</in>
+      <out>3445</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Все, отойдите! Этот тип массажа называется {\b1}Массаж Лучшего Друга{\b0}!</comment>
+      <name/>
+      <in>3445</in>
+      <out>3585</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О, Боже мой!</comment>
+      <name/>
+      <in>3585</in>
+      <out>3604</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Потому что он может быть сделан {\b1}только{\b0} для друзей!</comment>
+      <name/>
+      <in>3604</in>
+      <out>3675</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Массаж полного взаимного согласия!</comment>
+      <name/>
+      <in>3675</in>
+      <out>3741</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О, Боже мой!</comment>
+      <name/>
+      <in>3741</in>
+      <out>3769</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Расслабься, Принцесса Бугристого Пространства!</comment>
+      <name/>
+      <in>3769</in>
+      <out>3858</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я чувствую себя так легко!</comment>
+      <name/>
+      <in>3888</in>
+      <out>3929</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Что это за перец?</comment>
+      <name/>
+      <in>3929</in>
+      <out>3957</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Приветствую вас, гости вечеринки! Я так рада что все вы смогли прийти сюда!</comment>
+      <name/>
+      <in>4036</in>
+      <out>4126</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Принцесса Жвачка!</comment>
+      <name/>
+      <in>4126</in>
+      <out>4155</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Принцесса! Я лишь хотел поблагода...</comment>
+      <name/>
+      <in>4204</in>
+      <out>4267</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О Боже мой! ПЖ! Ты должна заценить этого нового парня! Он такой милашка! Тебе понравится!</comment>
+      <name/>
+      <in>4267</in>
+      <out>4394</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Это... Боже мой! Я ведь не знаю твоего имени!</comment>
+      <name/>
+      <in>4425</in>
+      <out>4505</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Рикардио... Рикардио к Вашим услугам!</comment>
+      <name/>
+      <in>4505</in>
+      <out>4590</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я ожидал весь вечер, чтобы повстречать Вас, Принцесса!</comment>
+      <name/>
+      <in>4603</in>
+      <out>4706</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я слышал, вам нравятся древние технологии?</comment>
+      <name/>
+      <in>4762</in>
+      <out>4829</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Вы когда-нибудь пробовали использовать балбофлонный лазер для упорядочивания гибернодов срифта в буботронно-плазмодиевой структуре?</comment>
+      <name/>
+      <in>4829</in>
+      <out>4982</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О! Нет, не пробовала!</comment>
+      <name/>
+      <in>4982</in>
+      <out>5028</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Продолжим наш разговор на танцплощадке?</comment>
+      <name/>
+      <in>5059</in>
+      <out>5124</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>С превеликим удовольствием, Принцесса!</comment>
+      <name/>
+      <in>5124</in>
+      <out>5198</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Почему принцесса не пригласила {\b1}меня{\b0} на танец?</comment>
+      <name/>
+      <in>5198</in>
+      <out>5254</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Хочешь танцевать? Так иди и танцуй!</comment>
+      <name/>
+      <in>5254</in>
+      <out>5315</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Но сейчас она танцует с ним!</comment>
+      <name/>
+      <in>5315</in>
+      <out>5372</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я чувствую себя... странно!</comment>
+      <name/>
+      <in>5390</in>
+      <out>5449</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Похоже ты столкнулся с новыми эмоциями, которые пока не понимаешь.</comment>
+      <name/>
+      <in>5449</in>
+      <out>5571</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ревность!</comment>
+      <name/>
+      <in>5571</in>
+      <out>5603</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Слушай, чувак! Просто иди туда!</comment>
+      <name/>
+      <in>5629</in>
+      <out>5696</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Плазмодиевые слои абсолютно не восприимчивы к бабилонам, не так ли?</comment>
+      <name/>
+      <in>5696</in>
+      <out>5807</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ого! Это же значит, что бабилоны будут флуктуировать с пиронной наносферой!</comment>
+      <name/>
+      <in>5807</in>
+      <out>5932</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Совершенно верно!</comment>
+      <name/>
+      <in>5932</in>
+      <out>5960</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Блин, они говорят о науке! Мне с этим не справиться!</comment>
+      <name/>
+      <in>5985</in>
+      <out>6065</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Так станцуй научный танец!</comment>
+      <name/>
+      <in>6065</in>
+      <out>6109</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Помнишь такой? Выглядит примерно так.</comment>
+      <name/>
+      <in>6109</in>
+      <out>6174</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Думаешь, сработает?</comment>
+      <name/>
+      <in>6207</in>
+      <out>6233</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да! Наверно. Сделай это, ты же профессионал!</comment>
+      <name/>
+      <in>6233</in>
+      <out>6318</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Научный танец! Научный танец! Научный танец!</comment>
+      <name/>
+      <in>6318</in>
+      <out>6377</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>...приближённые поля...</comment>
+      <name/>
+      <in>6377</in>
+      <out>6406</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Эй, эй! Принцесса! Хочешь побыть со мной?</comment>
+      <name/>
+      <in>6420</in>
+      <out>6487</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Простите меня принцесса, я должен отойти...</comment>
+      <name/>
+      <in>6487</in>
+      <out>6549</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О? Э... Хорошо!</comment>
+      <name/>
+      <in>6549</in>
+      <out>6593</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Финн! Какого хрена? Мы как раз обсуждали {\b1}Зеноидов{\b0}!</comment>
+      <name/>
+      <in>6593</in>
+      <out>6680</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О! Мне тоже нравятся {\b1}Зеноиды{\b0}! Они... самые лучшие!</comment>
+      <name/>
+      <in>6680</in>
+      <out>6775</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\b1}Зеноиды{\b0} убивают сотни тысяч {\b1}Плантоидов{\b0} каждый год!</comment>
+      <name/>
+      <in>6775</in>
+      <out>6856</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О, нет! Только не {\b1}Плантоиды{\b0}!</comment>
+      <name/>
+      <in>6856</in>
+      <out>6900</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\b1}Плантоиды{\b0} производят мальвовый токсин!</comment>
+      <name/>
+      <in>6900</in>
+      <out>6954</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Мальвовый токсин убивает {\b1}Зеноидов{\b0}!</comment>
+      <name/>
+      <in>6984</in>
+      <out>7046</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Так... {\b1}Зеноиды{\b0} - хорошие или нет?</comment>
+      <name/>
+      <in>7046</in>
+      <out>7121</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ты ревнуешь меня к Рикардио!</comment>
+      <name/>
+      <in>7121</in>
+      <out>7168</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Вот и нет! Мне просто не нравится, как он с тобой разговаривает! От этого я чувствую себя странно!</comment>
+      <name/>
+      <in>7168</in>
+      <out>7269</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Это и есть ревность, дорогуша!</comment>
+      <name/>
+      <in>7269</in>
+      <out>7307</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я не ревную! Я веду себя {\b1}странно{\b0}!</comment>
+      <name/>
+      <in>7307</in>
+      <out>7369</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ого, блин! Плохи дела!</comment>
+      <name/>
+      <in>7369</in>
+      <out>7437</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Эй, Финн! Пошли поможешь мне замочить ореховых монстров у бара!</comment>
+      <name/>
+      <in>7437</in>
+      <out>7529</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Медлить нельзя!</comment>
+      <name/>
+      <in>7529</in>
+      <out>7554</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ого, чел! Что там произошло?</comment>
+      <name/>
+      <in>7554</in>
+      <out>7603</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я не знаю!</comment>
+      <name/>
+      <in>7603</in>
+      <out>7648</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я просто беспокоился о ней, а она извратила все мои слова...</comment>
+      <name/>
+      <in>7648</in>
+      <out>7720</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да! Девушки они все такие!</comment>
+      <name/>
+      <in>7720</in>
+      <out>7780</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>А Жвачка впридачу ещё и очень умная!</comment>
+      <name/>
+      <in>7780</in>
+      <out>7823</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да! знаю! Но у меня какое-то странное ощущение по поводу этого Рикардио!</comment>
+      <name/>
+      <in>7823</in>
+      <out>7914</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я думаю он... {\b1}ЗЛОДЕЙ{\b0}!</comment>
+      <name/>
+      <in>7914</in>
+      <out>7973</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Почему? Потому что у него такая гнусная морщинистая рожа?</comment>
+      <name/>
+      <in>7973</in>
+      <out>8061</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Нет! Но я нутром чую - но задумал что-то нехорошее!</comment>
+      <name/>
+      <in>8061</in>
+      <out>8161</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Может, ты ощущаешь романтическое соперничество?</comment>
+      <name/>
+      <in>8161</in>
+      <out>8235</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я докажу, что он злодей!</comment>
+      <name/>
+      <in>8235</in>
+      <out>8269</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Как?</comment>
+      <name/>
+      <in>8269</in>
+      <out>8290</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Устроим слежку!</comment>
+      <name/>
+      <in>8290</in>
+      <out>8340</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Вот и он! Они разговаривают.</comment>
+      <name/>
+      <in>8387</in>
+      <out>8441</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Дай посмотреть! Я умею читать по губам!</comment>
+      <name/>
+      <in>8441</in>
+      <out>8491</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment/>
+      <name/>
+      <in>8491</in>
+      <out>8586</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment/>
+      <name/>
+      <in>8586</in>
+      <out>8648</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Не валяй дурака, Джейк! Это вопрос жизни и смерти!</comment>
+      <name/>
+      <in>8648</in>
+      <out>8719</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Разве? Не пойми меня неправильно. Мне нравится сидеть в засаде и следить за этим парнем.</comment>
+      <name/>
+      <in>8719</in>
+      <out>8837</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Но что, если он не злодей? Что если он просто уродливо выглядит?</comment>
+      <name/>
+      <in>8837</in>
+      <out>8913</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Некоторые люди уродливы, и в то же время очень хорошие!</comment>
+      <name/>
+      <in>8913</in>
+      <out>8966</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я доверяю своему нутру!</comment>
+      <name/>
+      <in>8966</in>
+      <out>9016</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Пошли за ним!</comment>
+      <name/>
+      <in>9042</in>
+      <out>9082</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я вижу его! Он держит верёвку и роется в мусоре!</comment>
+      <name/>
+      <in>9213</in>
+      <out>9302</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Он разбил бутылку! И изображает, будто пыряет кого-то!</comment>
+      <name/>
+      <in>9303</in>
+      <out>9400</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Итак, он что-то выкидывает? Но что?</comment>
+      <name/>
+      <in>9400</in>
+      <out>9471</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ну и наивное же у тебя нутро, Джейк!</comment>
+      <name/>
+      <in>9471</in>
+      <out>9537</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Боже мой! Он с Ледяным Королём! Что-то обсуждают!</comment>
+      <name/>
+      <in>9537</in>
+      <out>9651</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Рикардио выкидывает его в мусорку! И убегает!</comment>
+      <name/>
+      <in>9759</in>
+      <out>9846</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Так я был прав! Он {\b1}хороший{\b0} парень! Ему просто не повезло с внешностью!</comment>
+      <name/>
+      <in>9846</in>
+      <out>9966</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\b1}Мы с нутром вместе по жизни!
+Раскрываем преступления, помогаем отчизне!{\b0}</comment>
+      <name/>
+      <in>9966</in>
+      <out>10093</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Вот и нет! Это доказывает, что он {\b1}СУПЕР{\b0} злодей</comment>
+      <name/>
+      <in>10093</in>
+      <out>10172</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Более могущественный чем другие злодеи, как Ледяной Король.</comment>
+      <name/>
+      <in>10172</in>
+      <out>10251</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\b1\i1}Моё нутро кричит: он добрый! Твоё нутро кричит: он злой!
+Давай мы наши кишки сложим, и выясним кто он такой!{\b0\i0}</comment>
+      <name/>
+      <in>10251</in>
+      <out>10462</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Решено! Мы столкнёмся с Рикардио лицом к лицу и докажем, что он злой!</comment>
+      <name/>
+      <in>10462</in>
+      <out>10586</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Или добрый!</comment>
+      <name/>
+      <in>10586</in>
+      <out>10616</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Так, что ты делаешь, Рикардио? Ты злой?</comment>
+      <name/>
+      <in>10723</in>
+      <out>10792</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Или добрый, но со злым лицом?</comment>
+      <name/>
+      <in>10792</in>
+      <out>10838</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Не ваше дело!</comment>
+      <name/>
+      <in>10838</in>
+      <out>10882</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Спасение Принцессы Жвачки - {\b1}моё{\b0} дело!</comment>
+      <name/>
+      <in>10882</in>
+      <out>10954</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да, мы просто хотим узнать: ты добрый или нет.</comment>
+      <name/>
+      <in>10954</in>
+      <out>11010</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да?</comment>
+      <name/>
+      <in>11010</in>
+      <out>11043</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да!</comment>
+      <name/>
+      <in>11043</in>
+      <out>11059</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\b1}ДА?!{\b0}</comment>
+      <name/>
+      <in>11059</in>
+      <out>11097</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ага. Да!</comment>
+      <name/>
+      <in>11097</in>
+      <out>11138</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Держись от Принцессы Жвачки подальше со всей этой фигнёй!</comment>
+      <name/>
+      <in>11138</in>
+      <out>11200</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Теперь, когда мой план практически завершён, тебе уже меня не остановить!</comment>
+      <name/>
+      <in>11200</in>
+      <out>11345</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я остановлю тебя, если захочу!</comment>
+      <name/>
+      <in>11345</in>
+      <out>11392</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да?</comment>
+      <name/>
+      <in>11392</in>
+      <out>11418</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\b1}Да!{\b0}</comment>
+      <name/>
+      <in>11418</in>
+      <out>11431</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\b1}ДА?!{\b0}</comment>
+      <name/>
+      <in>11431</in>
+      <out>11474</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\b1}ДА!{\b0}</comment>
+      <name/>
+      <in>11474</in>
+      <out>11524</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Что здесь происходит?</comment>
+      <name/>
+      <in>11552</in>
+      <out>11585</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Принцесса?</comment>
+      <name/>
+      <in>11585</in>
+      <out>11604</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Рикардио?</comment>
+      <name/>
+      <in>11604</in>
+      <out>11627</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да? Со мной все в порядке... Принцесса.</comment>
+      <name/>
+      <in>11627</in>
+      <out>11702</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Финн! За что ты его так?</comment>
+      <name/>
+      <in>11702</in>
+      <out>11752</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Он собирался напасть на тебя с этой верёвкой и бутылками!</comment>
+      <name/>
+      <in>11752</in>
+      <out>11807</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Это для балбофлонного лазера?</comment>
+      <name/>
+      <in>11807</in>
+      <out>11865</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Это не целиком его вина, Принцесса. Возможно, я выглядел слегка устрашающе...</comment>
+      <name/>
+      <in>11865</in>
+      <out>11975</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Финн! Нельзя бить ботанов! Ты же знаешь, они такие хрупкие!</comment>
+      <name/>
+      <in>11975</in>
+      <out>12105</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Хватит уже ревновать!</comment>
+      <name/>
+      <in>12105</in>
+      <out>12155</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Что?!</comment>
+      <name/>
+      <in>12155</in>
+      <out>12172</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Пошли, Рикардио! Я тебя залатаю и дам конфетку.</comment>
+      <name/>
+      <in>12172</in>
+      <out>12265</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ну вот. Теперь она меня ненавидит. Как же я был неправ насчёт Рикардио...</comment>
+      <name/>
+      <in>12273</in>
+      <out>12357</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Нет, Финн! Ты был прав!</comment>
+      <name/>
+      <in>12357</in>
+      <out>12407</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Он {\b1}злой{\b0}!</comment>
+      <name/>
+      <in>12420</in>
+      <out>12491</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ледяной Король! Расскажи мне всё, что ты знаешь! А иначе я...</comment>
+      <name/>
+      <in>12491</in>
+      <out>12588</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Стой, Финн! Какой-то он помятый...</comment>
+      <name/>
+      <in>12588</in>
+      <out>12645</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Мне всё равно! Меня интересует только Рикардио!</comment>
+      <name/>
+      <in>12645</in>
+      <out>12705</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Но моё теперешнее состояние напрямую связано с {\b1}ним{\b0}!</comment>
+      <name/>
+      <in>12705</in>
+      <out>12834</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я пытался произнести заклинание, которое бы дало мне полный контроль над сердцем Принцессы Жвачки!</comment>
+      <name/>
+      <in>12863</in>
+      <out>13010</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Но я всё испортил!</comment>
+      <name/>
+      <in>13010</in>
+      <out>13060</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>И потерял контроль над своим...</comment>
+      <name/>
+      <in>13126</in>
+      <out>13188</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Он планирует вырвать сердце у Принцессы Жвачки!</comment>
+      <name/>
+      <in>13269</in>
+      <out>13347</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>И сделать его своей женой!</comment>
+      <name/>
+      <in>13347</in>
+      <out>13441</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Без своего сердца я слабею...</comment>
+      <name/>
+      <in>13471</in>
+      <out>13538</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Но в поисках Рикардио я всё же добрался до Конфетного Королевства.</comment>
+      <name/>
+      <in>13558</in>
+      <out>13666</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>В аллее я умолял его вернуться ко мне и оставить Принцессу в покое!</comment>
+      <name/>
+      <in>13666</in>
+      <out>13779</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Но он кинул меня в мусорку и оставил умирать!</comment>
+      <name/>
+      <in>13803</in>
+      <out>13874</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Остановите Рикардио!</comment>
+      <name/>
+      <in>13874</in>
+      <out>13935</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Пошли, Джейк! Нужно спасти Принцессу!</comment>
+      <name/>
+      <in>13944</in>
+      <out>14008</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Принцесса Жвачка!</comment>
+      <name/>
+      <in>14008</in>
+      <out>14025</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Принцесса!</comment>
+      <name/>
+      <in>14025</in>
+      <out>14047</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Финн! Джейк!</comment>
+      <name/>
+      <in>14051</in>
+      <out>14112</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ты с самого начала был прав, Финн!</comment>
+      <name/>
+      <in>14112</in>
+      <out>14182</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>А теперь я вырежу Принцессе Жвачке сердце и буду с ним встречаться!</comment>
+      <name/>
+      <in>14182</in>
+      <out>14316</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Теперь дерись со мной!</comment>
+      <name/>
+      <in>14316</in>
+      <out>14357</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ещё один шаг - и я извлеку у неё сердце!</comment>
+      <name/>
+      <in>14542</in>
+      <out>14616</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Финн! Я такая дура, что сомневалась в тебе!</comment>
+      <name/>
+      <in>14616</in>
+      <out>14691</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Он был таким очаровательным! Но его знания о планетоидах, вообще то, очень слабы.</comment>
+      <name/>
+      <in>14691</in>
+      <out>14807</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Заткнись, Принцесса!</comment>
+      <name/>
+      <in>14807</in>
+      <out>14874</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я вырву это сердце и оно станет моей женой!</comment>
+      <name/>
+      <in>14915</in>
+      <out>15018</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Почему бы тебе не жениться на ком-нибудь своего размера! Например, на моей ноге!</comment>
+      <name/>
+      <in>15018</in>
+      <out>15110</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>И моём кулаке!</comment>
+      <name/>
+      <in>15131</in>
+      <out>15161</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Стой! Прекрати!</comment>
+      <name/>
+      <in>15183</in>
+      <out>15220</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ты же бьёшь моё {\b1}сердце{\b0}!</comment>
+      <name/>
+      <in>15233</in>
+      <out>15290</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ледяной Король!</comment>
+      <name/>
+      <in>15290</in>
+      <out>15318</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Мы позволим ему вернуть сердце? Он же... злодей!</comment>
+      <name/>
+      <in>15389</in>
+      <out>15510</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Чувак! Что-то мне не хочется смотреть на помирающего старика на ковре Принцессы Жвачки!</comment>
+      <name/>
+      <in>15510</in>
+      <out>15609</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О, да! Иди к папочке! Нравится? А?</comment>
+      <name/>
+      <in>15609</in>
+      <out>15775</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Увидимся позже, ребята...</comment>
+      <name/>
+      <in>15775</in>
+      <out>15891</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я чувствую себя прекрасно!!!</comment>
+      <name/>
+      <in>15899</in>
+      <out>15994</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>И теперь, когда я спас Принцессу, она выйдет за меня замуж и будет жить в моём подземелье!</comment>
+      <name/>
+      <in>16001</in>
+      <out>16137</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Нет не будет!</comment>
+      <name/>
+      <in>16137</in>
+      <out>16157</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да, я не буду!</comment>
+      <name/>
+      <in>16157</in>
+      <out>16187</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Нет, будешь!</comment>
+      <name/>
+      <in>16187</in>
+      <out>16247</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Что же, может не сегодня. И не завтра. Но в другой день! И в другой...</comment>
+      <name/>
+      <in>16269</in>
+      <out>16399</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ещё раз спасибо, что спас меня... Ещё раз.</comment>
+      <name/>
+      <in>16504</in>
+      <out>16572</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Пара пустяков!</comment>
+      <name/>
+      <in>16572</in>
+      <out>16594</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Теперь, когда Рикардио нет, тебе больше не нужно меня ни к кому ревновать!</comment>
+      <name/>
+      <in>16594</in>
+      <out>16715</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>А я никогда и не ревновал!</comment>
+      <name/>
+      <in>16715</in>
+      <out>16763</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Поцелуй меня, Финн...</comment>
+      <name/>
+      <in>16763</in>
+      <out>16847</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment/>
+      <name/>
+      <in>16847</in>
+      <out>16897</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>У меня хорошо получается, Джейк?</comment>
+      <name/>
+      <in>16897</in>
+      <out>16947</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment/>
+      <name/>
+      <in>17041</in>
+      <out>-1</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment/>
+      <name/>
+      <in>17041</in>
+      <out>17092</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я нашёл очередной велик и парочку компьютеров! А у тебя что?</comment>
+      <name/>
+      <in>17440</in>
+      <out>17518</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>А мне всё попадается лишь детская обувь!</comment>
+      <name/>
+      <in>17518</in>
+      <out>17574</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Какого хрена?! Они все левые!</comment>
+      <name/>
+      <in>17606</in>
+      <out>17670</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Извини, что мне не попадается ничего хорошего...</comment>
+      <name/>
+      <in>17670</in>
+      <out>17728</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Не расстраивайся, приятель! Думаю, мы нашли уже достаточно хлама, чтобы закончить наш {\b1}Док Препятствий{\b0}!</comment>
+      <name/>
+      <in>17728</in>
+      <out>17856</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Док, который в то же время Полоса Препятствий!</comment>
+      <name/>
+      <in>17856</in>
+      <out>17917</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Блин! Строить этот Док Препятствий тяжело, чувак!</comment>
+      <name/>
+      <in>17917</in>
+      <out>18011</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Тяжёлая работа - отстой!</comment>
+      <name/>
+      <in>18011</in>
+      <out>18050</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Не ленись, Джейк!</comment>
+      <name/>
+      <in>18050</in>
+      <out>18111</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>К нам приближается айсберг!</comment>
+      <name/>
+      <in>18131</in>
+      <out>18176</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ого! Этот огромный!</comment>
+      <name/>
+      <in>18176</in>
+      <out>18220</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Чур мой!</comment>
+      <name/>
+      <in>18220</in>
+      <out>18249</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Надеюсь, это не детская обувь...</comment>
+      <name/>
+      <in>18249</in>
+      <out>18338</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Это чел!</comment>
+      <name/>
+      <in>18338</in>
+      <out>18374</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Стрёмно! Тут куча народу!</comment>
+      <name/>
+      <in>18374</in>
+      <out>18432</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Знаешь, кого они мне напоминают? Хорошо одетые огурцы!</comment>
+      <name/>
+      <in>18432</in>
+      <out>18496</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Отойди, Джейк! Я их растоплю!</comment>
+      <name/>
+      <in>18496</in>
+      <out>18577</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Полная мощность!</comment>
+      <name/>
+      <in>18577</in>
+      <out>18609</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Эй, чувак! Не поджарь их!</comment>
+      <name/>
+      <in>18646</in>
+      <out>18694</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Растапливать надо плавненько....</comment>
+      <name/>
+      <in>18694</in>
+      <out>18767</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment/>
+      <name/>
+      <in>18821</in>
+      <out>18880</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment/>
+      <name/>
+      <in>18880</in>
+      <out>18909</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Эй! Вы меня слышите? Алё!</comment>
+      <name/>
+      <in>18909</in>
+      <out>18979</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Не думаю, что они выжили.</comment>
+      <name/>
+      <in>19006</in>
+      <out>19042</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Эй! У этого какая-то сумка!</comment>
+      <name/>
+      <in>19042</in>
+      <out>19092</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я... Помню...</comment>
+      <name/>
+      <in>19136</in>
+      <out>19213</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\b1}Бизнес....{\b0}</comment>
+      <name/>
+      <in>19213</in>
+      <out>19291</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Мы - {\b1}бизнесмены{\b0}!</comment>
+      <name/>
+      <in>19369</in>
+      <out>19449</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О! Ну, а я - Финн! А это - Джейк!</comment>
+      <name/>
+      <in>19449</in>
+      <out>19539</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ну и каким бизнесом вы занимаетесь?</comment>
+      <name/>
+      <in>19539</in>
+      <out>19586</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Были заморожены так долго... Я...</comment>
+      <name/>
+      <in>19586</in>
+      <out>19657</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Не могу вспомнить. Не могу вспомнить!</comment>
+      <name/>
+      <in>19726</in>
+      <out>19831</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О! Вам не нужна помощь в делах? Мы бы с радостью поработали на вас!</comment>
+      <name/>
+      <in>19831</in>
+      <out>19937</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Нее! Зоне приключений помощь не нужна!</comment>
+      <name/>
+      <in>19937</in>
+      <out>20002</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да! Помогите нам починить этот Док!</comment>
+      <name/>
+      <in>20002</in>
+      <out>20047</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Док?</comment>
+      <name/>
+      <in>20047</in>
+      <out>20070</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да! Вон тот!</comment>
+      <name/>
+      <in>20070</in>
+      <out>20114</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да! Этот док... Может быть... Более эффективным!</comment>
+      <name/>
+      <in>20114</in>
+      <out>20238</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Нет, стойте!</comment>
+      <name/>
+      <in>20238</in>
+      <out>20286</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Джейк! Этот док - {\b1}НАША{\b0} кухня!</comment>
+      <name/>
+      <in>20286</in>
+      <out>20351</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>И "готовить" на ней должны{\b1} МЫ{\b0}!</comment>
+      <name/>
+      <in>20351</in>
+      <out>20401</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Но они же умоляют об этом, Финн! Только посмотри на них!</comment>
+      <name/>
+      <in>20401</in>
+      <out>20495</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да! Строить Док! Да, Док!</comment>
+      <name/>
+      <in>20521</in>
+      <out>20570</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Финн! Эти бедняжки погибнут без работы! Мы же не можем их так оставить!</comment>
+      <name/>
+      <in>20581</in>
+      <out>20717</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Э...</comment>
+      <name/>
+      <in>20717</in>
+      <out>20743</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Вперёд, ребятки! Почините его!</comment>
+      <name/>
+      <in>20743</in>
+      <out>20778</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ура! Да! Хорошо, починим этот Док! Да, отлично!</comment>
+      <name/>
+      <in>20778</in>
+      <out>20886</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Что же, похоже они действительно рады делать это!</comment>
+      <name/>
+      <in>20886</in>
+      <out>20978</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Конечно, чувак! Они ж сказали, что с удовольствием будут работать на тебя!</comment>
+      <name/>
+      <in>20978</in>
+      <out>21057</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Мы закончили!</comment>
+      <name/>
+      <in>21116</in>
+      <out>21157</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ого!</comment>
+      <name/>
+      <in>21157</in>
+      <out>21183</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я ж те говорил!</comment>
+      <name/>
+      <in>21183</in>
+      <out>21219</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Пошли заценим!</comment>
+      <name/>
+      <in>21219</in>
+      <out>21269</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да, круто!</comment>
+      <name/>
+      <in>21721</in>
+      <out>21782</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Видишь! Если мы их наймем их по полной, они вернутся в бизнес!</comment>
+      <name/>
+      <in>21826</in>
+      <out>21929</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>А мы сможем заняться весёлым вещами! Выиграют все!</comment>
+      <name/>
+      <in>21929</in>
+      <out>22025</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Может, ты и прав!</comment>
+      <name/>
+      <in>22025</in>
+      <out>22059</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Слышали, парни! Может, я прав!</comment>
+      <name/>
+      <in>22059</in>
+      <out>22128</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Серьёзно? Работа? С... искателями приключений?</comment>
+      <name/>
+      <in>22128</in>
+      <out>22251</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да, чуваки!</comment>
+      <name/>
+      <in>22251</in>
+      <out>22285</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment/>
+      <name/>
+      <in>22355</in>
+      <out>22428</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Как-то странно, ничего не делать...</comment>
+      <name/>
+      <in>22630</in>
+      <out>22663</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Расслабься, чел! Считай, это твой выходной!</comment>
+      <name/>
+      <in>22663</in>
+      <out>22731</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Кто-нибудь, помогите!</comment>
+      <name/>
+      <in>22740</in>
+      <out>22786</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Беда, чувак! Подымай свой зад, а я возьму свой... Что?</comment>
+      <name/>
+      <in>22786</in>
+      <out>22854</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Набор для приключений. Полностью готов!</comment>
+      <name/>
+      <in>22854</in>
+      <out>22929</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О! Спасибо, чел!</comment>
+      <name/>
+      <in>22929</in>
+      <out>22957</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Должен признать, Джейк! Мой меч блестит, как яйца, и острый, как бритва!</comment>
+      <name/>
+      <in>23002</in>
+      <out>23098</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ага!</comment>
+      <name/>
+      <in>23098</in>
+      <out>23117</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Даже ботинки ведут себя по-другому!</comment>
+      <name/>
+      <in>23117</in>
+      <out>23162</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Они не только чистые!</comment>
+      <name/>
+      <in>23162</in>
+      <out>23204</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Но и я ощущаю себя сильнее, быстрее и адекватнее!</comment>
+      <name/>
+      <in>23204</in>
+      <out>23276</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Круто!</comment>
+      <name/>
+      <in>23276</in>
+      <out>23298</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Помогите!!!</comment>
+      <name/>
+      <in>23367</in>
+      <out>23401</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Не плачь, Принцесса Хот Дог!
+Мы с Джейком победим эти Боевые Кубы!</comment>
+      <name/>
+      <in>23401</in>
+      <out>23509</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Всё хорошо! Они молодцы!</comment>
+      <name/>
+      <in>23509</in>
+      <out>23559</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я вас остановлю!</comment>
+      <name/>
+      <in>23647</in>
+      <out>23699</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Блин! Чёт я устал!</comment>
+      <name/>
+      <in>23699</in>
+      <out>23756</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ох! Я тоже!</comment>
+      <name/>
+      <in>23756</in>
+      <out>23806</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Эти кубы... Ох! Упругие, блин!</comment>
+      <name/>
+      <in>23806</in>
+      <out>23891</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Эй! Бизнес чуваки!</comment>
+      <name/>
+      <in>23891</in>
+      <out>23941</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Сдерживайте эти кубы, пока мы переведём дыхание!</comment>
+      <name/>
+      <in>23941</in>
+      <out>24003</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Джейк! Они не умеют драться!</comment>
+      <name/>
+      <in>24003</in>
+      <out>24066</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Вода! Дольки апельсина! Помогают при обезвоживании!</comment>
+      <name/>
+      <in>24184</in>
+      <out>24273</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Классные парни, да?</comment>
+      <name/>
+      <in>24356</in>
+      <out>24399</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Должен признать, они помогают!</comment>
+      <name/>
+      <in>24399</in>
+      <out>24476</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О! Кажысь я понял, как победить Боевые Кубы!</comment>
+      <name/>
+      <in>24476</in>
+      <out>24567</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>А это всё потому, что у тебя было время отдохнуть телом и освежить мозг!</comment>
+      <name/>
+      <in>24567</in>
+      <out>24649</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Хорошо! Теперь наша очередь, парни!</comment>
+      <name/>
+      <in>24649</in>
+      <out>24711</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да! Отличная работа!</comment>
+      <name/>
+      <in>24711</in>
+      <out>24746</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Собери все кубы вместе!</comment>
+      <name/>
+      <in>24795</in>
+      <out>24842</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Есть!</comment>
+      <name/>
+      <in>24861</in>
+      <out>24881</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Сработало!</comment>
+      <name/>
+      <in>24933</in>
+      <out>24966</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Проснись, принцесса Хот Дог!</comment>
+      <name/>
+      <in>24984</in>
+      <out>25040</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ты спасена!</comment>
+      <name/>
+      <in>25040</in>
+      <out>25059</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О! Спасибо вам, Финн и Джейк!</comment>
+      <name/>
+      <in>25059</in>
+      <out>25146</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>А особенно тебе, Финн!</comment>
+      <name/>
+      <in>25165</in>
+      <out>25225</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Она пахнет как старый хот дог!</comment>
+      <name/>
+      <in>25263</in>
+      <out>25316</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Этот я беру на себя!</comment>
+      <name/>
+      <in>25447</in>
+      <out>25495</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Круто! Я повышаю тебя, приятель!</comment>
+      <name/>
+      <in>25495</in>
+      <out>25588</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Мы тоже возьмём на себя!</comment>
+      <name/>
+      <in>25624</in>
+      <out>25719</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Блин! Опять проиграл!</comment>
+      <name/>
+      <in>25749</in>
+      <out>25798</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Моя очередь!</comment>
+      <name/>
+      <in>25798</in>
+      <out>25848</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Чё это?</comment>
+      <name/>
+      <in>25879</in>
+      <out>25907</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Обзорный Монитор Героя.</comment>
+      <name/>
+      <in>25907</in>
+      <out>25952</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Использует спутник для поиска проблем по всему миру!</comment>
+      <name/>
+      <in>25965</in>
+      <out>26042</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>А! Ух ты. Что-нить происходит?</comment>
+      <name/>
+      <in>26042</in>
+      <out>26099</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да так, мелочи. Вы копите силы на что-нибудь крупное!</comment>
+      <name/>
+      <in>26099</in>
+      <out>26184</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Адски круто, чувак!</comment>
+      <name/>
+      <in>26184</in>
+      <out>26223</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Чё они делают?</comment>
+      <name/>
+      <in>26223</in>
+      <out>26258</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Занимаются бизнесом.</comment>
+      <name/>
+      <in>26258</in>
+      <out>26308</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Джейк! Кинь в меня!</comment>
+      <name/>
+      <in>26407</in>
+      <out>26452</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Миссия завершена.</comment>
+      <name/>
+      <in>26620</in>
+      <out>26656</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да!</comment>
+      <name/>
+      <in>26656</in>
+      <out>26683</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я прошёл Мастеров Приключений!</comment>
+      <name/>
+      <in>26683</in>
+      <out>26716</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ура!</comment>
+      <name/>
+      <in>26716</in>
+      <out>26742</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Прошёл Мастеров Приключений!</comment>
+      <name/>
+      <in>26742</in>
+      <out>26791</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да!</comment>
+      <name/>
+      <in>26791</in>
+      <out>26810</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Вот уж не знал, что быть толстым и ленивым так полезно!</comment>
+      <name/>
+      <in>26895</in>
+      <out>26967</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да! Твоё пузо такое большое и пластичное!</comment>
+      <name/>
+      <in>26967</in>
+      <out>27042</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Эй!</comment>
+      <name/>
+      <in>27042</in>
+      <out>27068</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Погодь ка!</comment>
+      <name/>
+      <in>27068</in>
+      <out>27096</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ха-ха-ха! Щекотно!</comment>
+      <name/>
+      <in>27096</in>
+      <out>27138</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\b1\i1}Я Ледяной Король! И я живу без жены потому что я дурак!{\b0\i0}</comment>
+      <name/>
+      <in>27138</in>
+      <out>27271</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Теперь я попробую!</comment>
+      <name/>
+      <in>27306</in>
+      <out>27343</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\b1\i1}Я Принцесса Жвачка! И я такая дура, т.к. люблю науку!{\b0\i0}</comment>
+      <name/>
+      <in>27389</in>
+      <out>27491</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>{\b1\i1}А ещё у меня противный голос, который так нравится Финну!{\b0\i0}</comment>
+      <name/>
+      <in>27491</in>
+      <out>27601</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ха-ха! Точно... Эй! Что ты сказал?</comment>
+      <name/>
+      <in>27601</in>
+      <out>27681</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О боже мой! Оставь меня в покое!</comment>
+      <name/>
+      <in>27681</in>
+      <out>27727</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ты такой урод! Кто-нибудь, помогите мне!</comment>
+      <name/>
+      <in>27727</in>
+      <out>27848</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Блин, чёт я не в настроении спасать Принцессу Бугристого Пространства!</comment>
+      <name/>
+      <in>27848</in>
+      <out>27952</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Эй! Бизнес чуваки! Что думаете?</comment>
+      <name/>
+      <in>27952</in>
+      <out>28032</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ну... Всего 1 монстр. Мы справимся!</comment>
+      <name/>
+      <in>28032</in>
+      <out>28103</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Лады!</comment>
+      <name/>
+      <in>28103</in>
+      <out>28122</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>А мы тогда побережём свои силы для {\b1}больших{\b0} приключений!</comment>
+      <name/>
+      <in>28127</in>
+      <out>28214</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ах! Классно, чувак!</comment>
+      <name/>
+      <in>28214</in>
+      <out>28264</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Представь, какие классные будут приключения, когда настанет наша очередь!</comment>
+      <name/>
+      <in>28264</in>
+      <out>28365</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я слишком устал, чтобы представлять! Но уверен - ты прав!</comment>
+      <name/>
+      <in>28365</in>
+      <out>28461</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>За Великих Искателей Приключений!</comment>
+      <name/>
+      <in>28461</in>
+      <out>28532</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Блин!</comment>
+      <name/>
+      <in>28775</in>
+      <out>28797</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Помогите!</comment>
+      <name/>
+      <in>28797</in>
+      <out>28842</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Джейк! Ты это слышал?</comment>
+      <name/>
+      <in>28842</in>
+      <out>28882</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ага, пускай бизнесмены разберутся!</comment>
+      <name/>
+      <in>28882</in>
+      <out>28939</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Помогите!</comment>
+      <name/>
+      <in>28939</in>
+      <out>28966</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ну вот, опять!</comment>
+      <name/>
+      <in>28988</in>
+      <out>29011</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Бизнесмены!..</comment>
+      <name/>
+      <in>29011</in>
+      <out>29056</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Помоги-и-и-те!</comment>
+      <name/>
+      <in>29056</in>
+      <out>29091</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Чувак! Мы облажались! Бизнесмены опять съехали с катушек!</comment>
+      <name/>
+      <in>29273</in>
+      <out>29373</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Финн! Пусть бизнесмены разберутся!</comment>
+      <name/>
+      <in>29373</in>
+      <out>29441</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Бизнесмены{\b1} и есть{\b0} проблема! Ленивая ты дырка!</comment>
+      <name/>
+      <in>29441</in>
+      <out>29512</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Чё?</comment>
+      <name/>
+      <in>29512</in>
+      <out>29523</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Народ! Народ, остановитесь!</comment>
+      <name/>
+      <in>29523</in>
+      <out>29604</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Прекратите, народ!</comment>
+      <name/>
+      <in>29653</in>
+      <out>29682</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Прекратить что, босс?</comment>
+      <name/>
+      <in>29682</in>
+      <out>29721</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Вы обижаете пушистых друзей!</comment>
+      <name/>
+      <in>29721</in>
+      <out>29771</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Э... Мы герои!.. Как и ты босс!</comment>
+      <name/>
+      <in>29771</in>
+      <out>29856</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Мы их защищаем!</comment>
+      <name/>
+      <in>29856</in>
+      <out>29906</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Мы собираем их вместе в контейнер, чтобы им ничего не смогло навредить!</comment>
+      <name/>
+      <in>29906</in>
+      <out>30019</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Это самый эффективный способ спасать людей!</comment>
+      <name/>
+      <in>30019</in>
+      <out>30089</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Но вы расстраиваете их!</comment>
+      <name/>
+      <in>30089</in>
+      <out>30139</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Не важно! Эти существа под нашей охраной!</comment>
+      <name/>
+      <in>30139</in>
+      <out>30225</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Их счастье не является приоритетом!</comment>
+      <name/>
+      <in>30225</in>
+      <out>30287</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я ваш {\b1}босс{\b0}! И вы все {\b1}УВОЛЕНЫ{\b0}!!!</comment>
+      <name/>
+      <in>30287</in>
+      <out>30399</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Уволены?!</comment>
+      <name/>
+      <in>30407</in>
+      <out>30439</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Нет!</comment>
+      <name/>
+      <in>30667</in>
+      <out>30697</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ну всё, народ! Теперь я с вами разберусь!</comment>
+      <name/>
+      <in>30697</in>
+      <out>30778</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>В стиле Финна!</comment>
+      <name/>
+      <in>30778</in>
+      <out>30818</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я настучу в ваш контейнер, чуваки!</comment>
+      <name/>
+      <in>30928</in>
+      <out>30979</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Финн?! Чёрт!</comment>
+      <name/>
+      <in>30979</in>
+      <out>31051</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я иду, приятель!</comment>
+      <name/>
+      <in>31089</in>
+      <out>31135</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я такой толстый, чувак! Я не знаю, что делать!</comment>
+      <name/>
+      <in>31210</in>
+      <out>31289</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Точно!</comment>
+      <name/>
+      <in>31289</in>
+      <out>31327</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Джейк! Деморализуй их!</comment>
+      <name/>
+      <in>31327</in>
+      <out>31389</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Что? Зачем?</comment>
+      <name/>
+      <in>31389</in>
+      <out>31426</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Делай, чувак! У меня есть классный план!</comment>
+      <name/>
+      <in>31426</in>
+      <out>31485</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ну ладно, хорошо.</comment>
+      <name/>
+      <in>31485</in>
+      <out>31527</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Эй! Вы, парни, неудачники в бизнесе!</comment>
+      <name/>
+      <in>31527</in>
+      <out>31601</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Они засасывают меня, чувак!</comment>
+      <name/>
+      <in>31662</in>
+      <out>31702</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>А теперь ешь побольше мороженого, чтобы стать толще!</comment>
+      <name/>
+      <in>31702</in>
+      <out>31772</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>А также используй свою способность растягиваться, чтобы стать больше!</comment>
+      <name/>
+      <in>31772</in>
+      <out>31848</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Хорошо!</comment>
+      <name/>
+      <in>31848</in>
+      <out>31864</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Отстой!</comment>
+      <name/>
+      <in>32028</in>
+      <out>32058</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да, чувак! Увеличивайся в размерах! Ты сломаешь их робота!</comment>
+      <name/>
+      <in>32058</in>
+      <out>32146</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>О, нет!</comment>
+      <name/>
+      <in>32212</in>
+      <out>32239</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я убью тебя, {\b1}НЕ БОСС{\b0}!</comment>
+      <name/>
+      <in>32314</in>
+      <out>32388</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Стой, чувак! Стой! Я хочу пере нанять вас!</comment>
+      <name/>
+      <in>32388</in>
+      <out>32486</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Пере нанять? Серьёзно?</comment>
+      <name/>
+      <in>32486</in>
+      <out>32552</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да, чуваки!</comment>
+      <name/>
+      <in>32552</in>
+      <out>32577</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Да! Гип гип ура! Кексы...</comment>
+      <name/>
+      <in>32697</in>
+      <out>32790</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Постой! А для чего ты их нанял?</comment>
+      <name/>
+      <in>32844</in>
+      <out>32906</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я нанял их, чтобы они засунули себя в айсберг и уплыли отсюда!</comment>
+      <name/>
+      <in>32906</in>
+      <out>32986</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Ах! Я буду скучать по ним...</comment>
+      <name/>
+      <in>32986</in>
+      <out>33036</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>И я буду скучать по этому пузу!</comment>
+      <name/>
+      <in>33036</in>
+      <out>33105</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Я тоже буду скучать по своему пузу!</comment>
+      <name/>
+      <in>33120</in>
+      <out>33183</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment/>
+      <name/>
+      <in>33298</in>
+      <out>33333</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Пошли со мной.</comment>
+      <name/>
+      <in>33397</in>
+      <out>33489</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Вместе с бабочками и пчёлами.</comment>
+      <name/>
+      <in>33489</in>
+      <out>33592</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Прогуляемся по лесу.</comment>
+      <name/>
+      <in>33592</in>
+      <out>33692</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>И займёмся тем, чем захотим.</comment>
+      <name/>
+      <in>33692</in>
+      <out>33792</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>Пошли со мной.</comment>
+      <name/>
+      <in>33792</in>
+      <out>33891</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+    <marker>
+      <comment>На холм под деревом.</comment>
+      <name/>
+      <in>33891</in>
+      <out>33961</out>
+      <pproColor>4281740498</pproColor>
+    </marker>
+  </sequence>
+</xmeml>
